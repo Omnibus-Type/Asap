@@ -68,9 +68,9 @@ This information should be distributed along with the Asap fonts and any derivat
       * Single Substitution
       * Ligature Substitution
   - GPOS:
-    * mark Mark Positioning
-    * mkmk Mark to Mark
-    * cpsp Capital Spacing
+    * **mark** Mark Positioning
+    * **mkmk** Mark to Mark
+    * **cpsp** Capital Spacing
 
 **19 Jan 2012 (v.1.001) Omnibus-Type**
 - Initial release
