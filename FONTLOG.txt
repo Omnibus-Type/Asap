@@ -12,6 +12,14 @@ To contribute to the project contact Omnibus-Type
 at omnibus.type@gmail.com
 
 ChangeLog
+
+17 Sep 2014 (v.1.6) Omnibus-Type
+- Set up PANOSE
+- Fixed FullName string in the table names for Windows compatibility
+- Improved the mark classes for mark positioning and mark to mark
+- Improved CFF hint (AFDK AutoHinting v1.45, Mar 20 2014)
+- Updating TTF instruction with ttfautohint (v1.1)
+
 1 Oct 2013 (v.1.5) Omnibus-Type
 - Expanded character map to support Unicode language ranges:
 	Basic Latin 				U+0020-U+007E

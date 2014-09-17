@@ -1,6 +1,0 @@
-ReleaseMode	true
-FeaturePath	./features
-FontMenuDBPath	./FontMenuNameDB
-GlyphAliasDBPath	./GlyphOrderAndAliasDB
-InputFontPath	./font.pfa
-OutputFontPath	./Asap-BoldItalic.otf

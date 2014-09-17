@@ -46,12 +46,18 @@ This information should be distributed along with the Asap fonts and any derivat
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**17 Sep 2014 (v.1.6) Omnibus-Type**
+- Set up PANOSE
+- Fixed FullName string in the table names for Windows compatibility
+- Improved the mark classes for mark positioning and mark to mark
+- Improved CFF hint (AFDK AutoHinting v1.45, Mar 20 2014)
+- Updating TTF instruction with ttfautohint (v1.1)
+
 **1 Oct 2013 (v.1.5) Omnibus-Type**
 - Expanded in order to support Adobe Latin 3 and vietnamite
-- Improved CFF hint (AFDK Autohint 2.4)
 - Updating hinting with ttfautohint (v0.97)
 - Increased vertical metrics
-- Improved CFF hint (AFDK Autohint 2.5.59)
+- Improved CFF hint (AFDK 2.5.59)
 - Improved TTF hint (TTFAutohint 0.95)
 - Fixed TTF table names
 - Updated and expanded features in OT Tables:
