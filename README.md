@@ -47,7 +47,7 @@ This information should be distributed along with the Asap fonts and any derivat
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
-**02 February 2015 (v.1.7) Omnibus-Type**  
+**02 Feb 2015 (v.1.7) Omnibus-Type**  
 - Medium and MediumItalic new styles
 - Removed Reserve Font Name from the license
 - Name tables adjusted
