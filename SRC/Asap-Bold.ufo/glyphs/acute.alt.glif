@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute.alt" format="1">
+  <advance width="320"/>
+  <outline>
+    <contour>
+      <point x="139" y="700"/>
+      <point x="110" y="694"/>
+      <point x="99" y="673" type="curve" smooth="yes"/>
+      <point x="74" y="606"/>
+      <point x="64" y="585"/>
+      <point x="64" y="576" type="curve" smooth="yes"/>
+      <point x="64" y="565"/>
+      <point x="69" y="561"/>
+      <point x="85" y="561" type="curve" smooth="yes"/>
+      <point x="120" y="561"/>
+      <point x="132" y="568"/>
+      <point x="140" y="576" type="curve" smooth="yes"/>
+      <point x="201" y="650"/>
+      <point x="214" y="666"/>
+      <point x="214" y="676" type="curve" smooth="yes"/>
+      <point x="214" y="695"/>
+      <point x="200" y="700"/>
+      <point x="174" y="700" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="107" y="700" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="105" y="565" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

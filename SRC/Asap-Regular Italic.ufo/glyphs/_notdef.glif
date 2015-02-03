@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name=".notdef" format="1">
+  <advance width="515"/>
+  <outline>
+    <contour>
+      <point x="480" y="0" type="line"/>
+      <point x="554" y="700" type="line"/>
+      <point x="54" y="700" type="line"/>
+      <point x="-20" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="128" y="650" type="line"/>
+      <point x="468" y="650" type="line"/>
+      <point x="272" y="395" type="line"/>
+    </contour>
+    <contour>
+      <point x="237" y="350" type="line"/>
+      <point x="39" y="95" type="line"/>
+      <point x="93" y="605" type="line"/>
+    </contour>
+    <contour>
+      <point x="493" y="605" type="line"/>
+      <point x="439" y="95" type="line"/>
+      <point x="297" y="350" type="line"/>
+    </contour>
+    <contour>
+      <point x="261" y="305" type="line"/>
+      <point x="405" y="50" type="line"/>
+      <point x="65" y="50" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

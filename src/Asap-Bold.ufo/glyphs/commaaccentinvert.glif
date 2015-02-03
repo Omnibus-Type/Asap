@@ -2,48 +2,17 @@
 <glyph name="commaaccentinvert" format="1">
   <advance width="353"/>
   <outline>
+    <component base="uni0326" xOffset="353" yOffset="524" xScale="-1" yScale="-1"/>
     <contour>
-      <point x="169" y="575" type="curve" smooth="yes"/>
-      <point x="150" y="575" type="line" smooth="yes"/>
-      <point x="115" y="575"/>
-      <point x="100" y="594"/>
-      <point x="100" y="619" type="curve" smooth="yes"/>
-      <point x="100" y="686"/>
-      <point x="173" y="764"/>
-      <point x="208" y="764" type="curve" smooth="yes"/>
-      <point x="226" y="764"/>
-      <point x="253" y="758"/>
-      <point x="253" y="742" type="curve" smooth="yes"/>
-      <point x="253" y="724"/>
-      <point x="229" y="699"/>
-      <point x="229" y="619" type="curve" smooth="yes"/>
-      <point x="229" y="592"/>
-      <point x="211" y="575"/>
+      <point x="163" y="523" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>575</integer>
-            <key>width</key>
-            <integer>189</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>100</integer>
-            <key>width</key>
-            <integer>129</integer>
-          </dict>
-        </array>
-      </dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

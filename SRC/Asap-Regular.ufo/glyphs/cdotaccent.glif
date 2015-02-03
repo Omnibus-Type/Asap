@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cdotaccent" format="1">
+  <advance width="485"/>
+  <unicode hex="010B"/>
+  <outline>
+    <component base="c"/>
+    <component base="dotaccent" xOffset="115"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

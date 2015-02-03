@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="1">
+  <advance width="320"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <contour>
+      <point x="158" y="718" type="line" smooth="yes"/>
+      <point x="129" y="718"/>
+      <point x="108" y="717"/>
+      <point x="95" y="699" type="curve" smooth="yes"/>
+      <point x="19" y="597" type="line" smooth="yes"/>
+      <point x="14" y="591"/>
+      <point x="12" y="586"/>
+      <point x="12" y="582" type="curve" smooth="yes"/>
+      <point x="12" y="576"/>
+      <point x="19" y="572"/>
+      <point x="31" y="572" type="curve" smooth="yes"/>
+      <point x="55" y="572" type="line" smooth="yes"/>
+      <point x="83" y="572"/>
+      <point x="107" y="575"/>
+      <point x="124" y="597" type="curve" smooth="yes"/>
+      <point x="155" y="636" type="line"/>
+      <point x="180" y="596" type="line" smooth="yes"/>
+      <point x="192" y="577"/>
+      <point x="214" y="572"/>
+      <point x="244" y="572" type="curve" smooth="yes"/>
+      <point x="266" y="572" type="line" smooth="yes"/>
+      <point x="279" y="572"/>
+      <point x="285" y="577"/>
+      <point x="285" y="585" type="curve" smooth="yes"/>
+      <point x="285" y="589"/>
+      <point x="284" y="592"/>
+      <point x="282" y="597" type="curve" smooth="yes"/>
+      <point x="228" y="699" type="line" smooth="yes"/>
+      <point x="218" y="717"/>
+      <point x="198" y="718"/>
+      <point x="169" y="718" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="181" y="782" type="move" name="tilde"/>
+    </contour>
+    <contour>
+      <point x="343" y="597" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="149" y="523" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

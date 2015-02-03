@@ -4,70 +4,53 @@
   <unicode hex="2191"/>
   <outline>
     <contour>
-      <point x="265" y="711" type="curve" smooth="yes"/>
-      <point x="273" y="711"/>
-      <point x="278" y="709"/>
-      <point x="283" y="704" type="curve" smooth="yes"/>
-      <point x="508" y="478" type="line" smooth="yes"/>
-      <point x="523" y="463"/>
-      <point x="529" y="448"/>
-      <point x="529" y="427" type="curve" smooth="yes"/>
-      <point x="529" y="341" type="line" smooth="yes"/>
-      <point x="529" y="329"/>
-      <point x="527" y="322"/>
-      <point x="522" y="322" type="curve" smooth="yes"/>
-      <point x="519" y="322"/>
-      <point x="514" y="326"/>
-      <point x="508" y="332" type="curve" smooth="yes"/>
-      <point x="319" y="524" type="line"/>
-      <point x="319" y="30" type="line" smooth="yes"/>
-      <point x="319" y="9"/>
-      <point x="306" y="-2"/>
-      <point x="275" y="-2" type="curve" smooth="yes"/>
-      <point x="256" y="-2" type="line" smooth="yes"/>
-      <point x="225" y="-2"/>
-      <point x="212" y="9"/>
-      <point x="212" y="30" type="curve" smooth="yes"/>
-      <point x="212" y="525" type="line"/>
-      <point x="21" y="331" type="line" smooth="yes"/>
-      <point x="15" y="325"/>
-      <point x="10" y="321"/>
-      <point x="7" y="321" type="curve" smooth="yes"/>
-      <point x="2" y="321"/>
-      <point x="0" y="328"/>
-      <point x="0" y="340" type="curve" smooth="yes"/>
-      <point x="0" y="426" type="line" smooth="yes"/>
-      <point x="0" y="447"/>
-      <point x="6" y="462"/>
-      <point x="21" y="477" type="curve" smooth="yes"/>
-      <point x="247" y="704" type="line" smooth="yes"/>
-      <point x="252" y="709"/>
       <point x="257" y="711"/>
+      <point x="252" y="709"/>
+      <point x="247" y="704" type="curve" smooth="yes"/>
+      <point x="21" y="477" type="line" smooth="yes"/>
+      <point x="6" y="462"/>
+      <point x="0" y="447"/>
+      <point x="0" y="426" type="curve" smooth="yes"/>
+      <point x="0" y="340" type="line" smooth="yes"/>
+      <point x="0" y="328"/>
+      <point x="2" y="321"/>
+      <point x="7" y="321" type="curve" smooth="yes"/>
+      <point x="10" y="321"/>
+      <point x="15" y="325"/>
+      <point x="21" y="331" type="curve" smooth="yes"/>
+      <point x="212" y="525" type="line"/>
+      <point x="212" y="30" type="line" smooth="yes"/>
+      <point x="212" y="9"/>
+      <point x="225" y="-2"/>
+      <point x="256" y="-2" type="curve" smooth="yes"/>
+      <point x="275" y="-2" type="line" smooth="yes"/>
+      <point x="306" y="-2"/>
+      <point x="319" y="9"/>
+      <point x="319" y="30" type="curve" smooth="yes"/>
+      <point x="319" y="524" type="line"/>
+      <point x="508" y="332" type="line" smooth="yes"/>
+      <point x="514" y="326"/>
+      <point x="519" y="322"/>
+      <point x="522" y="322" type="curve" smooth="yes"/>
+      <point x="527" y="322"/>
+      <point x="529" y="329"/>
+      <point x="529" y="341" type="curve" smooth="yes"/>
+      <point x="529" y="427" type="line" smooth="yes"/>
+      <point x="529" y="448"/>
+      <point x="523" y="463"/>
+      <point x="508" y="478" type="curve" smooth="yes"/>
+      <point x="283" y="704" type="line" smooth="yes"/>
+      <point x="278" y="709"/>
+      <point x="273" y="711"/>
+      <point x="265" y="711" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-2</integer>
-            <key>width</key>
-            <integer>713</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>212</integer>
-            <key>width</key>
-            <integer>107</integer>
-          </dict>
-        </array>
-      </dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
     </dict>
   </lib>
 </glyph>

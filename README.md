@@ -5,11 +5,12 @@
 
 Asap is a contemporary sans-serif family with subtle rounded corners. Designed by Pablo Cosgaya, Asap ("as soon as possible") there are 4 styles: Regular, Italic, Bold and Bold Italic. This family, specially developed for screen and desktop use, offers a standarised character width on all styles, which means lines of text remain the same length. This useful feature allows users to change type styles on-the-go without reflowing a text body. Asap is based on Ancha (designed by Pablo Cosgaya & Hector Gatti), and has been developed with the collaboration of Andres Torresi and Nicolas Silva.
 
-![Sample of Asap Family.](Asap.gif "Asap Family")
+![Sample of Asap Family.](SRC/Asap.gif "Asap Family")
 
 ####Asap Family contains:
-* regular/italic
-* bold/bolditalic
+* Regular/Italic
+* Medium/MediumItalic
+* Bold/BoldItalic
 
 To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
@@ -19,7 +20,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2011-2014, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Asap'
+Copyright (c) 2011-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -45,6 +46,16 @@ This information should be distributed along with the Asap fonts and any derivat
 * Mac Roman
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
+
+**02 February 2015 (v.1.7) Omnibus-Type**  
+- Mediun and MediunItalic new styles
+- Removed Reserve Font Name from the license
+- Name tables adjusted
+- fsType Installable Mode
+- Set Panose values
+- Updates CFF and TTF hinting
+- Added Family Alignment Zones
+- New Verical Metrics
 
 **17 Sep 2014 (v.1.6) Omnibus-Type**
 - Set up PANOSE

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EA2" format="1">
+  <advance width="613"/>
+  <unicode hex="1EA2"/>
+  <outline>
+    <component base="A"/>
+    <component base="hookabovecomb" xOffset="314" yOffset="177"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

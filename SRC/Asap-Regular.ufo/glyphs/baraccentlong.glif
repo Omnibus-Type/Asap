@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="baraccentlong" format="1">
+  <advance width="517"/>
+  <outline>
+    <contour>
+      <point x="-33" y="355" type="line" smooth="yes"/>
+      <point x="-47" y="355"/>
+      <point x="-53" y="346"/>
+      <point x="-53" y="325" type="curve" smooth="yes"/>
+      <point x="-53" y="315" type="line" smooth="yes"/>
+      <point x="-53" y="294"/>
+      <point x="-47" y="285"/>
+      <point x="-33" y="285" type="curve"/>
+      <point x="550" y="285" type="line" smooth="yes"/>
+      <point x="564" y="285"/>
+      <point x="570" y="294"/>
+      <point x="570" y="315" type="curve" smooth="yes"/>
+      <point x="570" y="325" type="line" smooth="yes"/>
+      <point x="570" y="346"/>
+      <point x="564" y="355"/>
+      <point x="550" y="355" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="266" y="317" type="move" name="_center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>10</integer>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>
