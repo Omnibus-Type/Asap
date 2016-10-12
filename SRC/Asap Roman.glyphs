@@ -41147,21 +41147,6 @@ name = "Remove Glyphs";
 value = "horncomb, hookabovecomb.alt, acute.alt, breve.alt, circumflex.alt, grave.alt, tilde.alt, circumflex.alt2";
 },
 {
-name = panose;
-value = (
-2,
-15,
-5,
-4,
-3,
-1,
-2,
-6,
-2,
-3
-);
-},
-{
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latn --windows-compatibility --composites --no-info --strong-stem-width=gD";
 }
@@ -41177,21 +41162,6 @@ customParameters = (
 {
 name = "Remove Glyphs";
 value = "horncomb, hookabovecomb.alt, acute.alt, breve.alt, circumflex.alt, grave.alt, tilde.alt, circumflex.alt2";
-},
-{
-name = panose;
-value = (
-2,
-15,
-6,
-4,
-3,
-1,
-2,
-6,
-2,
-3
-);
 },
 {
 name = "TTFAutohint options";
@@ -41211,21 +41181,6 @@ customParameters = (
 {
 name = "Remove Glyphs";
 value = "horncomb, hookabovecomb.alt, acute.alt, breve.alt, circumflex.alt, grave.alt, tilde.alt, circumflex.alt2";
-},
-{
-name = panose;
-value = (
-2,
-15,
-8,
-4,
-3,
-1,
-2,
-6,
-2,
-3
-);
 },
 {
 name = "TTFAutohint options";
