@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lacute" format="2">
+  <advance width="297"/>
+  <unicode hex="013A"/>
+  <anchor x="193" y="752" name="caron"/>
+  <anchor x="137" y="897" name="top"/>
+  <anchor x="305" y="335" name="center"/>
+  <anchor x="183" y="0" name="bottom"/>
+  <outline>
+    <component base="l"/>
+    <component base="acutecomb" xOffset="136" yOffset="197"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

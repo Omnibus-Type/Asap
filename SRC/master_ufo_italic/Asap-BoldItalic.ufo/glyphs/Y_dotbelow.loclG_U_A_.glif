@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ydotbelow.loclGUA" format="2">
+  <advance width="559"/>
+  <anchor x="316" y="700" name="top"/>
+  <anchor x="227" y="-203" name="bottom"/>
+  <outline>
+    <component base="Y.loclGUA"/>
+    <component base="dotbelowcomb" xOffset="273"/>
+  </outline>
+</glyph>

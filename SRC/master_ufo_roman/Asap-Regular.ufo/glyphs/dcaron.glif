@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron" format="2">
+  <advance width="595"/>
+  <unicode hex="010F"/>
+  <anchor x="481" y="700" name="caron"/>
+  <anchor x="421" y="630" name="center"/>
+  <anchor x="281" y="0" name="bottom"/>
+  <outline>
+    <component base="d"/>
+    <component base="caron.alt" xOffset="494"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

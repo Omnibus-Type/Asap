@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aogonek" format="2">
+  <advance width="613"/>
+  <unicode hex="0104"/>
+  <anchor x="345" y="700" name="top"/>
+  <anchor x="552" y="0" name="ogonek"/>
+  <anchor x="301" y="0" name="bottom"/>
+  <outline>
+    <component base="A"/>
+    <component base="ogonek" xOffset="412"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

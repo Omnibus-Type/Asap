@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breve" format="2">
+  <advance width="256"/>
+  <unicode hex="02D8"/>
+  <anchor x="147" y="523" name="_top"/>
+  <anchor x="174" y="776" name="tilde"/>
+  <anchor x="166" y="686" name="top"/>
+  <outline>
+    <contour>
+      <point x="150" y="575" type="curve" smooth="yes"/>
+      <point x="236" y="575"/>
+      <point x="309" y="632"/>
+      <point x="309" y="691" type="curve" smooth="yes"/>
+      <point x="309" y="706"/>
+      <point x="297" y="715"/>
+      <point x="277" y="715" type="curve" smooth="yes"/>
+      <point x="263" y="715"/>
+      <point x="255" y="709"/>
+      <point x="248" y="702" type="curve" smooth="yes"/>
+      <point x="232" y="688"/>
+      <point x="218" y="666"/>
+      <point x="160" y="666" type="curve" smooth="yes"/>
+      <point x="109" y="666"/>
+      <point x="95" y="683"/>
+      <point x="84" y="697" type="curve" smooth="yes"/>
+      <point x="76" y="707"/>
+      <point x="70" y="715"/>
+      <point x="53" y="715" type="curve" smooth="yes"/>
+      <point x="26" y="715"/>
+      <point x="14" y="702"/>
+      <point x="14" y="678" type="curve" smooth="yes"/>
+      <point x="14" y="624"/>
+      <point x="67" y="575"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>x</key>
+          <integer>257</integer>
+          <key>y</key>
+          <integer>666</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

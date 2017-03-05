@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ccedilla" format="2">
+  <advance width="485"/>
+  <unicode hex="00E7"/>
+  <anchor x="277" y="523" name="top"/>
+  <anchor x="282" y="-203" name="bottom"/>
+  <outline>
+    <component base="c"/>
+    <component base="cedillacomb" xOffset="286"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

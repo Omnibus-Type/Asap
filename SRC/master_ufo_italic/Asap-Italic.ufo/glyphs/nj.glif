@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nj" format="2">
+  <advance width="833"/>
+  <unicode hex="01CC"/>
+  <anchor x="289" y="523" name="top_1"/>
+  <anchor x="742.16" y="716.1600000000001" name="top_2"/>
+  <anchor x="239" y="0" name="bottom"/>
+  <outline>
+    <component base="n"/>
+    <component base="j" xOffset="557"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>j</string>
+    </dict>
+  </lib>
+</glyph>

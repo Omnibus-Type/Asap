@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcroat" format="2">
+  <advance width="565"/>
+  <unicode hex="0111"/>
+  <anchor x="498" y="700" name="caron"/>
+  <anchor x="417" y="630" name="center"/>
+  <anchor x="291" y="0" name="bottom"/>
+  <outline>
+    <component base="d"/>
+    <component base="macron" xScale="1.229" xOffset="189" yOffset="-14"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

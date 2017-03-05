@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute_J.loclNLD" format="2">
+  <advance width="684"/>
+  <anchor x="181" y="700" name="top_1"/>
+  <anchor x="572" y="700" name="top_2"/>
+  <anchor x="142" y="0" name="ogonek"/>
+  <anchor x="103" y="0" name="bottom"/>
+  <outline>
+    <component base="Iacute"/>
+    <component base="J" xOffset="282"/>
+    <component base="acute" xOffset="468" yOffset="177"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Iacute.loclNLD</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>J.loclNLD</string>
+    </dict>
+  </lib>
+</glyph>

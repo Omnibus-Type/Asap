@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <sources>
+        <source familyname="Asap" filename="Asap-Regular.ufo" name="Asap Regular" stylename="Regular">
+            <lib copy="1" />
+            <groups copy="1" />
+            <features copy="1" />
+            <info copy="1" />
+            <location>
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="weight" xvalue="77.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+        </source>
+        <source familyname="Asap" filename="Asap-Bold.ufo" name="Asap Bold" stylename="Bold">
+            <location>
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="weight" xvalue="129.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="Asap" filename="../instance_ufo/Asap-Regular.ufo" name="Asap Regular" stylename="Regular">
+            <location>
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="weight" xvalue="77.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Asap" filename="../instance_ufo/Asap-Medium.ufo" name="Asap Medium" stylename="Medium">
+            <location>
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="weight" xvalue="92.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Asap" filename="../instance_ufo/Asap-Semibold.ufo" name="Asap Semibold" stylename="Semibold">
+            <location>
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="weight" xvalue="111.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="Asap" filename="../instance_ufo/Asap-Bold.ufo" name="Asap Bold" stylename="Bold">
+            <location>
+                <dimension name="width" xvalue="100.000000" />
+                <dimension name="weight" xvalue="129.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+    </instances>
+</designspace>

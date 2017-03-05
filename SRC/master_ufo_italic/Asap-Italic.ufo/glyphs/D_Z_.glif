@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DZ" format="2">
+  <advance width="1311"/>
+  <unicode hex="01F1"/>
+  <anchor x="348" y="700" name="top_1"/>
+  <anchor x="1033" y="700" name="top_2"/>
+  <anchor x="348" y="350" name="center"/>
+  <anchor x="980" y="0" name="bottom_2"/>
+  <anchor x="291" y="0" name="bottom_1"/>
+  <outline>
+    <component base="D"/>
+    <component base="Z" xOffset="695"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Z</string>
+    </dict>
+  </lib>
+</glyph>

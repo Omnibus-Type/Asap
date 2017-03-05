@@ -3,13 +3,14 @@
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
 
-Asap is a contemporary sans-serif family with subtle rounded corners. Designed by Pablo Cosgaya, Asap ("as soon as possible") there are 4 styles: Regular, Italic, Bold and Bold Italic. This family, specially developed for screen and desktop use, offers a standarised character width on all styles, which means lines of text remain the same length. This useful feature allows users to change type styles on-the-go without reflowing a text body. Asap is based on Ancha (designed by Pablo Cosgaya & Hector Gatti), and has been developed with the collaboration of Andres Torresi and Nicolas Silva.
+Asap is a contemporary sans-serif family with subtle rounded corners. Designed by Pablo Cosgaya, Asap ("as soon as possible") there are 8 styles: Regular, Italic, Medium, Medium Italic, Semibold, Semibold Italic, Bold, and Bold Italic. This family, specially developed for screen and desktop use, offers a standarised character width on all styles, which means lines of text remain the same length. This useful feature allows users to change type styles on-the-go without reflowing a text body. Asap is based on Ancha (designed by Pablo Cosgaya & Hector Gatti), and has been developed with the collaboration of Andres Torresi and Nicolas Silva.
 
 ![Sample of Asap Family.](SRC/Asap.gif "Asap Family")
 
 ####Asap Family contains:
 * Regular/Italic
 * Medium/MediumItalic
+* Semibold/SemiboldItalic
 * Bold/BoldItalic
 
 To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
@@ -20,7 +21,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2011-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)
+Copyright (c) 2011-2017, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -46,6 +47,18 @@ This information should be distributed along with the Asap fonts and any derivat
 * Mac Roman
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
+
+**05 Mar 2017 (v.1.9) Omnibus-Type**  
+- Enabled Panose with correct values
+- Enabled Family zoned
+- Remmaped Medium weight
+- Added Semibold Weight
+- Enhancements in the OT shaping.
+
+**08 Nov 2016 (v.1.8) Marc Foley**  
+- Disabled Panose
+- Disabled OpenTYpe name ID
+- Adjusted vertical metrics to match v1.001
 
 **02 Feb 2015 (v.1.7) Omnibus-Type**  
 - Medium and MediumItalic new styles

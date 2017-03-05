@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless" format="2">
+  <advance width="265"/>
+  <unicode hex="0131"/>
+  <anchor x="131" y="0" name="bottom"/>
+  <anchor x="158" y="0" name="ogonek"/>
+  <anchor x="133" y="523" name="top"/>
+  <outline>
+    <contour>
+      <point x="131" y="-2" type="curve" smooth="yes"/>
+      <point x="135" y="-2" type="line" smooth="yes"/>
+      <point x="163" y="-2"/>
+      <point x="175" y="6"/>
+      <point x="175" y="20" type="curve" smooth="yes"/>
+      <point x="175" y="503" type="line" smooth="yes"/>
+      <point x="175" y="517"/>
+      <point x="163" y="525"/>
+      <point x="135" y="525" type="curve" smooth="yes"/>
+      <point x="131" y="525" type="line" smooth="yes"/>
+      <point x="103" y="525"/>
+      <point x="91" y="517"/>
+      <point x="91" y="503" type="curve" smooth="yes"/>
+      <point x="91" y="20" type="line" smooth="yes"/>
+      <point x="91" y="6"/>
+      <point x="103" y="-2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

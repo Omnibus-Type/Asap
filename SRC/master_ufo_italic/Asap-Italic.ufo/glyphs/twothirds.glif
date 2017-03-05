@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twothirds" format="2">
+  <advance width="752"/>
+  <unicode hex="2154"/>
+  <outline>
+    <contour>
+      <point x="133" y="-2" type="curve" smooth="yes"/>
+      <point x="146" y="-2" type="line" smooth="yes"/>
+      <point x="159" y="-2"/>
+      <point x="170" y="2"/>
+      <point x="178" y="14" type="curve" smooth="yes"/>
+      <point x="655" y="687" type="line" smooth="yes"/>
+      <point x="658" y="691"/>
+      <point x="660" y="694"/>
+      <point x="660" y="697" type="curve" smooth="yes"/>
+      <point x="660" y="701"/>
+      <point x="656" y="703"/>
+      <point x="647" y="703" type="curve" smooth="yes"/>
+      <point x="634" y="703" type="line" smooth="yes"/>
+      <point x="621" y="703"/>
+      <point x="609" y="697"/>
+      <point x="602" y="687" type="curve" smooth="yes"/>
+      <point x="125" y="14" type="line"/>
+      <point x="121" y="10"/>
+      <point x="120" y="6"/>
+      <point x="120" y="4" type="curve" smooth="yes"/>
+      <point x="120" y="0"/>
+      <point x="124" y="-2"/>
+    </contour>
+    <component base="two" xScale="0.576" yScale="0.576" xOffset="27" yOffset="301"/>
+    <component base="three" xScale="0.587" yScale="0.587" xOffset="450" yOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>twosuperior</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>two.numr</string>
+    </dict>
+  </lib>
+</glyph>

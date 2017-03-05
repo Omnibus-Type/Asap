@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aringacute" format="2">
+  <advance width="613"/>
+  <unicode hex="01FA"/>
+  <anchor x="543" y="14" name="ogonek"/>
+  <outline>
+    <contour>
+      <point x="61" y="-2" type="curve" smooth="yes"/>
+      <point x="101" y="-2" type="line" smooth="yes"/>
+      <point x="125" y="-2"/>
+      <point x="142" y="4"/>
+      <point x="147" y="19" type="curve" smooth="yes"/>
+      <point x="187" y="141" type="line"/>
+      <point x="423" y="141" type="line"/>
+      <point x="463" y="19" type="line" smooth="yes"/>
+      <point x="468" y="3"/>
+      <point x="490" y="-2"/>
+      <point x="519" y="-2" type="curve" smooth="yes"/>
+      <point x="563" y="-2" type="line" smooth="yes"/>
+      <point x="598" y="-2"/>
+      <point x="613" y="6"/>
+      <point x="613" y="20" type="curve" smooth="yes"/>
+      <point x="613" y="25"/>
+      <point x="612" y="31"/>
+      <point x="610" y="38" type="curve" smooth="yes"/>
+      <point x="395" y="666" type="line" smooth="yes"/>
+      <point x="387" y="690"/>
+      <point x="354" y="656"/>
+      <point x="333" y="656" type="curve" smooth="yes"/>
+      <point x="281" y="656" type="line" smooth="yes"/>
+      <point x="260" y="656"/>
+      <point x="230" y="700"/>
+      <point x="218" y="666" type="curve" smooth="yes"/>
+      <point x="4" y="38" type="line" smooth="yes"/>
+      <point x="2" y="31"/>
+      <point x="0" y="25"/>
+      <point x="0" y="20" type="curve" smooth="yes"/>
+      <point x="0" y="6"/>
+      <point x="19" y="-2"/>
+    </contour>
+    <contour>
+      <point x="230" y="273" type="line"/>
+      <point x="289" y="451" type="line" smooth="yes"/>
+      <point x="296.5" y="472"/>
+      <point x="300" y="494"/>
+      <point x="304" y="515" type="curve"/>
+      <point x="308" y="515" type="line"/>
+      <point x="312" y="494"/>
+      <point x="316" y="472"/>
+      <point x="323" y="451" type="curve" smooth="yes"/>
+      <point x="380" y="273" type="line"/>
+    </contour>
+    <component base="ringcomb" xOffset="304" yOffset="47"/>
+    <component base="acute.alt" xOffset="217" yOffset="247"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcommaaccent" format="2">
+  <advance width="297"/>
+  <unicode hex="013C"/>
+  <anchor x="166" y="702" name="caron"/>
+  <anchor x="125" y="720" name="top"/>
+  <anchor x="279" y="335" name="center"/>
+  <anchor x="175" y="-203" name="bottom"/>
+  <outline>
+    <component base="l"/>
+    <component base="commaaccentcomb" xOffset="-12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

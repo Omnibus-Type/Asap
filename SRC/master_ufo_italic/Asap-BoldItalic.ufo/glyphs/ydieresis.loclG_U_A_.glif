@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis.loclGUA" format="2">
+  <advance width="557"/>
+  <anchor x="301" y="523" name="top"/>
+  <anchor x="521" y="0" name="bottom"/>
+  <outline>
+    <component base="y.loclGUA"/>
+    <component base="dieresis" xOffset="154"/>
+  </outline>
+</glyph>

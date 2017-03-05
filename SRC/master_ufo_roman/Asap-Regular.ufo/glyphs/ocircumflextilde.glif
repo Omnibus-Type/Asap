@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflextilde" format="2">
+  <advance width="569"/>
+  <unicode hex="1ED7"/>
+  <anchor x="448" y="623" name="top"/>
+  <anchor x="343" y="0" name="ogonek"/>
+  <anchor x="376" y="505" name="horn"/>
+  <anchor x="291" y="0" name="bottom"/>
+  <outline>
+    <component base="o"/>
+    <component base="circumflex.alt" xOffset="128"/>
+    <component base="tilde.alt" xOffset="106" yOffset="190"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

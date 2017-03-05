@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="baraccent" format="2">
+  <advance width="317"/>
+  <anchor x="164" y="317" name="_center"/>
+  <outline>
+    <component base="macron" yOffset="-327"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

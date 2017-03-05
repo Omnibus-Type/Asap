@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yhookabove.loclGUA" format="2">
+  <advance width="557"/>
+  <anchor x="325" y="699" name="top"/>
+  <anchor x="501" y="0" name="bottom"/>
+  <outline>
+    <component base="y.loclGUA"/>
+    <component base="hookabovecomb" xOffset="287"/>
+  </outline>
+</glyph>

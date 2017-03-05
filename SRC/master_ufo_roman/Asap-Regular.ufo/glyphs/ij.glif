@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ij" format="2">
+  <advance width="541"/>
+  <unicode hex="0133"/>
+  <anchor x="135.2" y="718.0000000000001" name="top_1"/>
+  <anchor x="410.2" y="718.0000000000001" name="top_2"/>
+  <anchor x="158" y="0" name="ogonek"/>
+  <anchor x="131" y="0" name="bottom"/>
+  <outline>
+    <component base="i"/>
+    <component base="j" xOffset="265"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>j</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

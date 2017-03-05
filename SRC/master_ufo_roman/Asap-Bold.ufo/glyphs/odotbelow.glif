@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="odotbelow" format="2">
+  <advance width="569"/>
+  <unicode hex="1ECD"/>
+  <anchor x="285" y="523" name="top"/>
+  <anchor x="353" y="0" name="ogonek"/>
+  <anchor x="387" y="505" name="horn"/>
+  <anchor x="294" y="-203" name="bottom"/>
+  <outline>
+    <component base="o"/>
+    <component base="dotbelowcomb" xOffset="288"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

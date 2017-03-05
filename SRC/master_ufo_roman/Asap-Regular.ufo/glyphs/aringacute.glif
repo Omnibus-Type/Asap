@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aringacute" format="2">
+  <advance width="545"/>
+  <unicode hex="01FB"/>
+  <anchor x="280" y="877" name="top"/>
+  <anchor x="475" y="17" name="ogonek"/>
+  <anchor x="261" y="0" name="bottom"/>
+  <outline>
+    <component base="a"/>
+    <component base="ringcomb" xOffset="270"/>
+    <component base="acutecomb" xOffset="301" yOffset="177"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

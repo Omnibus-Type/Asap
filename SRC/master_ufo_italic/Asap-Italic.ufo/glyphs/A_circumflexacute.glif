@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflexacute" format="2">
+  <advance width="613"/>
+  <unicode hex="1EA4"/>
+  <anchor x="489" y="829" name="top"/>
+  <anchor x="539" y="0" name="ogonek"/>
+  <anchor x="279" y="0" name="bottom"/>
+  <outline>
+    <component base="A"/>
+    <component base="circumflex.alt" xOffset="201" yOffset="177"/>
+    <component base="acute.alt" xOffset="380" yOffset="264"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

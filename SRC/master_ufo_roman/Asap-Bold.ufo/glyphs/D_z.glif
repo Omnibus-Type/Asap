@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dz" format="2">
+  <advance width="1184"/>
+  <unicode hex="01F2"/>
+  <anchor x="340" y="700" name="top_1"/>
+  <anchor x="940" y="523" name="top_2"/>
+  <anchor x="154" y="350" name="center"/>
+  <anchor x="936" y="0" name="bottom_2"/>
+  <anchor x="338" y="0" name="bottom_1"/>
+  <outline>
+    <component base="D"/>
+    <component base="z" xOffset="695"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

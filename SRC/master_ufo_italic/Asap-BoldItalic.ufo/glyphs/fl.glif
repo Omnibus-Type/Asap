@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fl" format="2">
+  <advance width="622"/>
+  <unicode hex="FB02"/>
+  <anchor x="548" y="752" name="caron"/>
+  <anchor x="501" y="720" name="top"/>
+  <anchor x="630" y="335" name="center"/>
+  <anchor x="474" y="0" name="bottom"/>
+  <outline>
+    <component base="f"/>
+    <component base="l" xOffset="325"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>l</string>
+    </dict>
+  </lib>
+</glyph>

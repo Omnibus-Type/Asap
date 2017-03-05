@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcommaaccent" format="2">
+  <advance width="342"/>
+  <unicode hex="021B"/>
+  <anchor x="186" y="752" name="caron"/>
+  <anchor x="171" y="292" name="center"/>
+  <anchor x="212" y="-203" name="bottom"/>
+  <outline>
+    <component base="t"/>
+    <component base="commaaccentcomb" xOffset="25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

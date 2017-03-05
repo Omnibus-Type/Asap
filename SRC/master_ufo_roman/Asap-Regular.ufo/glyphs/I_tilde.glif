@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Itilde" format="2">
+  <advance width="282"/>
+  <unicode hex="0128"/>
+  <anchor x="140" y="877" name="top"/>
+  <anchor x="166" y="0" name="ogonek"/>
+  <anchor x="140" y="0" name="bottom"/>
+  <outline>
+    <component base="I"/>
+    <component base="tildecomb" xOffset="135" yOffset="177"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

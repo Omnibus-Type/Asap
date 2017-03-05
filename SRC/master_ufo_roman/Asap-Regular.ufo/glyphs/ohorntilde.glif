@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ohorntilde" format="2">
+  <advance width="569"/>
+  <unicode hex="1EE1"/>
+  <anchor x="285" y="523" name="top"/>
+  <anchor x="343" y="0" name="ogonek"/>
+  <anchor x="291" y="0" name="bottom"/>
+  <outline>
+    <component base="ohorn"/>
+    <component base="tilde.alt" xOffset="102"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

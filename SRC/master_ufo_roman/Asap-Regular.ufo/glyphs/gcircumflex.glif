@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gcircumflex" format="2">
+  <advance width="546"/>
+  <unicode hex="011D"/>
+  <anchor x="436" y="623" name="top"/>
+  <outline>
+    <component base="g"/>
+    <component base="circumflex.alt" xOffset="116"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

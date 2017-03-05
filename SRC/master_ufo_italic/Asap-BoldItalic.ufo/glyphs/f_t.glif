@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_t" format="2">
+  <advance width="667"/>
+  <anchor x="566" y="752" name="caron"/>
+  <anchor x="481" y="292" name="center"/>
+  <anchor x="486" y="0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="260" y="523" type="line"/>
+      <point x="260" y="406" type="line"/>
+      <point x="409" y="406" type="line"/>
+      <point x="409" y="523" type="line"/>
+    </contour>
+    <component base="f"/>
+    <component base="t" xOffset="325"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>t</string>
+    </dict>
+  </lib>
+</glyph>

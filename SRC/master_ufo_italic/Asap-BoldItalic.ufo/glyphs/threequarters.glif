@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="2">
+  <advance width="738"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <contour>
+      <point x="136" y="0" type="curve" smooth="yes"/>
+      <point x="153" y="0" type="line" smooth="yes"/>
+      <point x="173" y="0"/>
+      <point x="187" y="7"/>
+      <point x="200" y="26" type="curve" smooth="yes"/>
+      <point x="627" y="674" type="line"/>
+      <point x="632" y="680"/>
+      <point x="635" y="686"/>
+      <point x="635" y="690" type="curve" smooth="yes"/>
+      <point x="635" y="696"/>
+      <point x="628" y="700"/>
+      <point x="615" y="700" type="curve" smooth="yes"/>
+      <point x="598" y="700" type="line" smooth="yes"/>
+      <point x="578" y="700"/>
+      <point x="562" y="692"/>
+      <point x="550" y="674" type="curve" smooth="yes"/>
+      <point x="123" y="26" type="line" smooth="yes"/>
+      <point x="118" y="19"/>
+      <point x="116" y="14"/>
+      <point x="116" y="9" type="curve" smooth="yes"/>
+      <point x="116" y="2"/>
+      <point x="123" y="0"/>
+    </contour>
+    <component base="three" xScale="0.587" yScale="0.587" xOffset="21" yOffset="293"/>
+    <component base="four" xScale="0.585" yScale="0.585" xOffset="366" yOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>threesuperior</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ycircumflex.loclGUA" format="2">
+  <advance width="559"/>
+  <anchor x="511" y="774" name="top"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <outline>
+    <component base="Y.loclGUA"/>
+    <component base="circumflex" xOffset="168" yOffset="177"/>
+  </outline>
+</glyph>

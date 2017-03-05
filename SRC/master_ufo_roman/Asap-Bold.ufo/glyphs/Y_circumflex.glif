@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ycircumflex" format="2">
+  <advance width="559"/>
+  <unicode hex="0176"/>
+  <anchor x="284" y="877" name="top"/>
+  <anchor x="282" y="0" name="bottom"/>
+  <outline>
+    <component base="Y"/>
+    <component base="circumflexcomb" xOffset="277" yOffset="177"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

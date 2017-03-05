@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twothirds" format="2">
+  <advance width="819"/>
+  <unicode hex="2154"/>
+  <outline>
+    <contour>
+      <point x="206" y="0" type="curve" smooth="yes"/>
+      <point x="223" y="0" type="line" smooth="yes"/>
+      <point x="243" y="0"/>
+      <point x="257" y="7"/>
+      <point x="268" y="26" type="curve" smooth="yes"/>
+      <point x="627" y="674" type="line" smooth="yes"/>
+      <point x="631" y="680"/>
+      <point x="633" y="685"/>
+      <point x="633" y="689" type="curve" smooth="yes"/>
+      <point x="633" y="696"/>
+      <point x="626" y="700"/>
+      <point x="612" y="700" type="curve" smooth="yes"/>
+      <point x="595" y="700" type="line" smooth="yes"/>
+      <point x="575" y="700"/>
+      <point x="560" y="692"/>
+      <point x="550" y="674" type="curve" smooth="yes"/>
+      <point x="191" y="26" type="line" smooth="yes"/>
+      <point x="188" y="20"/>
+      <point x="185" y="15"/>
+      <point x="185" y="11" type="curve" smooth="yes"/>
+      <point x="185" y="3"/>
+      <point x="192" y="0"/>
+    </contour>
+    <component base="three" xScale="0.587" yScale="0.587" xOffset="493" yOffset="-2"/>
+    <component base="two" xScale="0.584" yScale="0.584" xOffset="-3" yOffset="293"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>twosuperior</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

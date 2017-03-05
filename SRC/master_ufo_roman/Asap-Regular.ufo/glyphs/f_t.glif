@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_t" format="2">
+  <advance width="667"/>
+  <anchor x="163" y="0" name="bottom_1"/>
+  <anchor x="541" y="0" name="bottom_2"/>
+  <anchor x="336" y="0" name="caret_1"/>
+  <anchor x="511" y="752" name="caron"/>
+  <anchor x="163" y="700" name="top_1"/>
+  <anchor x="496" y="292" name="center"/>
+  <outline>
+    <contour>
+      <point x="278" y="523" type="line"/>
+      <point x="278" y="451" type="line"/>
+      <point x="386" y="451" type="line"/>
+      <point x="386" y="523" type="line"/>
+    </contour>
+    <component base="f"/>
+    <component base="t" xOffset="325"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>t</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>
