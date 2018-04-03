@@ -127207,10 +127207,6 @@ value = (
 2,
 3
 );
-},
-{
-name = "New Parameter";
-value = "New Value";
 }
 );
 interpolationWeight = 76;
