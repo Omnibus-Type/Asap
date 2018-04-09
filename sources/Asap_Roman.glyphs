@@ -14,7 +14,7 @@ code = "";
 name = xxxx;
 }
 );
-copyright = "Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap), with Reserved Font Name \"Asap\".";
+copyright = "Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap), with Reserved Font Name \"(Asap)\".";
 customParameters = (
 {
 name = trademark;
@@ -48,14 +48,6 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
-},
-{
-name = "Family Alignment Zones";
-value = (
-"{700, 8}",
-"{523, 8}",
-"{0, -8}"
-);
 },
 {
 name = Axes;

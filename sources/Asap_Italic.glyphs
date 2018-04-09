@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap), with Reserved Font Name \"Asap\".";
+copyright = "Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap), with Reserved Font Name \"(Asap)\".";
 customParameters = (
 {
 name = trademark;
@@ -59592,7 +59592,6 @@ instanceInterpolations = {
 UUID0 = 1;
 };
 isItalic = 1;
-linkStyle = Regular;
 name = Italic;
 },
 {
