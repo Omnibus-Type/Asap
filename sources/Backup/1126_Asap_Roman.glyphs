@@ -1,17 +1,10 @@
 {
-.appVersion = "1127";
-DisplayStrings = (
-" "
-);
+.appVersion = "1126";
 classes = (
 {
 automatic = 1;
 code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D DZ DZcaron Eth Dcaron Dcroat Ddotbelow Dz Dzcaron E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idblgrave Idieresis Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Lj Lslash M N NJ Nacute Ncaron Ncommaaccent Ndotaccent Eng Nj Ntilde O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Oogonek Oslash Oslashacute Otilde Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow U Uacute Ubreve Ucaron Ucircumflex Udblgrave Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Y.loclGUA Yacute.loclGUA Ycircumflex.loclGUA Ydieresis.loclGUA Ydotbelow.loclGUA Ygrave.loclGUA Yhookabove.loclGUA Ytilde.loclGUA Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK Delta Omega";
 name = Uppercase;
-},
-{
-code = "";
-name = xxxx;
 }
 );
 copyright = "Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap), with Reserved Font Name \"Asap\".";
@@ -56,19 +49,6 @@ value = (
 "{523, 8}",
 "{0, -8}"
 );
-},
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
-},
-{
-name = "Variation Font Origin";
-value = UUID0;
 }
 );
 date = "2018-04-01 21:49:23 +0000";
@@ -574,12 +554,12 @@ alignmentZones = (
 "{-208, -6}",
 "{-224, -10}"
 );
-ascender = 934;
+ascender = 755;
 capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 1055;
+value = 955;
 },
 {
 name = typoDescender;
@@ -688,18 +668,9 @@ position = -224;
 size = -10;
 }
 );
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
 }
 );
-}
-);
-descender = -212;
+descender = -245;
 guideLines = (
 {
 alignment = center;
@@ -782,12 +753,12 @@ alignmentZones = (
 "{-208, -6}",
 "{-232, -10}"
 );
-ascender = 934;
+ascender = 755;
 capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 1055;
+value = 955;
 },
 {
 name = typoDescender;
@@ -896,18 +867,9 @@ position = -232;
 size = -10;
 }
 );
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
 }
 );
-}
-);
-descender = -212;
+descender = -245;
 guideLines = (
 {
 alignment = center;
@@ -3511,6 +3473,7 @@ width = 546;
 }
 );
 leftKerningGroup = H;
+leftMetricsKey = H;
 rightKerningGroup = E;
 unicode = 0045;
 userData = {
@@ -22981,48 +22944,48 @@ paths = (
 {
 closed = 1;
 nodes = (
-"297 -9 OFFCURVE",
-"375 57 OFFCURVE",
-"375 147 CURVE SMOOTH",
-"375 246 OFFCURVE",
-"306 286 OFFCURVE",
-"215 316 CURVE SMOOTH",
-"154 336 OFFCURVE",
-"137 354 OFFCURVE",
-"137 392 CURVE SMOOTH",
-"137 434 OFFCURVE",
-"176 459 OFFCURVE",
-"226 459 CURVE SMOOTH",
-"280 459 OFFCURVE",
-"312 433 OFFCURVE",
-"317 433 CURVE SMOOTH",
-"330 433 OFFCURVE",
-"349 471 OFFCURVE",
-"349 487 CURVE SMOOTH",
-"349 509 OFFCURVE",
-"285 530 OFFCURVE",
-"217 530 CURVE SMOOTH",
-"120 530 OFFCURVE",
-"51 469 OFFCURVE",
-"51 385 CURVE SMOOTH",
-"51 282 OFFCURVE",
-"120 252 OFFCURVE",
-"190 229 CURVE SMOOTH",
-"247 210 OFFCURVE",
-"290 191 OFFCURVE",
-"290 138 CURVE SMOOTH",
-"290 90 OFFCURVE",
-"256 64 OFFCURVE",
-"192 64 CURVE SMOOTH",
-"121 64 OFFCURVE",
-"81 104 OFFCURVE",
-"74 104 CURVE SMOOTH",
-"60 104 OFFCURVE",
-"39 65 OFFCURVE",
-"39 54 CURVE SMOOTH",
-"39 31 OFFCURVE",
-"107 -9 OFFCURVE",
-"198 -9 CURVE SMOOTH"
+"293 -9 OFFCURVE",
+"371 57 OFFCURVE",
+"371 147 CURVE SMOOTH",
+"371 246 OFFCURVE",
+"302 286 OFFCURVE",
+"211 316 CURVE SMOOTH",
+"150 336 OFFCURVE",
+"133 354 OFFCURVE",
+"133 392 CURVE SMOOTH",
+"133 434 OFFCURVE",
+"172 459 OFFCURVE",
+"222 459 CURVE SMOOTH",
+"276 459 OFFCURVE",
+"308 433 OFFCURVE",
+"313 433 CURVE SMOOTH",
+"326 433 OFFCURVE",
+"345 471 OFFCURVE",
+"345 487 CURVE SMOOTH",
+"345 509 OFFCURVE",
+"281 530 OFFCURVE",
+"213 530 CURVE SMOOTH",
+"116 530 OFFCURVE",
+"47 469 OFFCURVE",
+"47 385 CURVE SMOOTH",
+"47 282 OFFCURVE",
+"116 253 OFFCURVE",
+"186 229 CURVE SMOOTH",
+"243 210 OFFCURVE",
+"286 191 OFFCURVE",
+"286 138 CURVE SMOOTH",
+"286 90 OFFCURVE",
+"252 64 OFFCURVE",
+"188 64 CURVE SMOOTH",
+"117 64 OFFCURVE",
+"77 104 OFFCURVE",
+"70 104 CURVE SMOOTH",
+"56 104 OFFCURVE",
+"35 65 OFFCURVE",
+"35 54 CURVE SMOOTH",
+"35 31 OFFCURVE",
+"103 -9 OFFCURVE",
+"194 -9 CURVE SMOOTH"
 );
 }
 );
@@ -23095,48 +23058,48 @@ paths = (
 {
 closed = 1;
 nodes = (
-"319 -8 OFFCURVE",
-"390 61 OFFCURVE",
-"390 163 CURVE SMOOTH",
-"390 265 OFFCURVE",
-"319 298 OFFCURVE",
-"270 316 CURVE SMOOTH",
-"221 334 OFFCURVE",
-"187 345 OFFCURVE",
-"187 378 CURVE SMOOTH",
-"187 405 OFFCURVE",
-"207 415 OFFCURVE",
-"240 415 CURVE SMOOTH",
-"289 415 OFFCURVE",
-"318 394 OFFCURVE",
-"329 394 CURVE SMOOTH",
-"348 394 OFFCURVE",
-"372 451 OFFCURVE",
-"372 473 CURVE SMOOTH",
-"372 515 OFFCURVE",
-"280 531 OFFCURVE",
-"222 531 CURVE SMOOTH",
-"111 531 OFFCURVE",
-"40 471 OFFCURVE",
-"40 367 CURVE SMOOTH",
-"40 265 OFFCURVE",
-"113 234 OFFCURVE",
-"162 213 CURVE SMOOTH",
-"209 193 OFFCURVE",
-"243 181 OFFCURVE",
-"243 151 CURVE SMOOTH",
-"243 124 OFFCURVE",
-"222 109 OFFCURVE",
-"182 109 CURVE SMOOTH",
-"129 109 OFFCURVE",
-"96 137 OFFCURVE",
-"81 137 CURVE SMOOTH",
-"61 137 OFFCURVE",
-"28 86 OFFCURVE",
-"28 60 CURVE SMOOTH",
-"28 17 OFFCURVE",
-"119 -8 OFFCURVE",
-"194 -8 CURVE SMOOTH"
+"322 -8 OFFCURVE",
+"393 61 OFFCURVE",
+"393 163 CURVE SMOOTH",
+"393 265 OFFCURVE",
+"322 298 OFFCURVE",
+"273 316 CURVE SMOOTH",
+"224 333 OFFCURVE",
+"190 345 OFFCURVE",
+"190 378 CURVE SMOOTH",
+"190 405 OFFCURVE",
+"210 415 OFFCURVE",
+"243 415 CURVE SMOOTH",
+"292 415 OFFCURVE",
+"321 394 OFFCURVE",
+"332 394 CURVE SMOOTH",
+"351 394 OFFCURVE",
+"375 451 OFFCURVE",
+"375 473 CURVE SMOOTH",
+"375 515 OFFCURVE",
+"283 531 OFFCURVE",
+"225 531 CURVE SMOOTH",
+"114 531 OFFCURVE",
+"43 471 OFFCURVE",
+"43 367 CURVE SMOOTH",
+"43 265 OFFCURVE",
+"116 234 OFFCURVE",
+"165 213 CURVE SMOOTH",
+"213 194 OFFCURVE",
+"246 181 OFFCURVE",
+"246 151 CURVE SMOOTH",
+"246 124 OFFCURVE",
+"225 109 OFFCURVE",
+"185 109 CURVE SMOOTH",
+"132 109 OFFCURVE",
+"99 137 OFFCURVE",
+"84 137 CURVE SMOOTH",
+"64 137 OFFCURVE",
+"31 86 OFFCURVE",
+"31 60 CURVE SMOOTH",
+"31 17 OFFCURVE",
+"122 -8 OFFCURVE",
+"197 -8 CURVE SMOOTH"
 );
 }
 );
@@ -26770,6 +26733,124 @@ width = 700;
 }
 );
 leftKerningGroup = h;
+},
+{
+glyphname = l.001;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{179, 0}";
+},
+{
+name = center;
+position = "{274, 365}";
+},
+{
+name = top;
+position = "{125, 720}";
+},
+{
+name = topright;
+position = "{241, 752}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"238 -6 OFFCURVE",
+"284 -3 OFFCURVE",
+"284 24 CURVE SMOOTH",
+"284 32 OFFCURVE",
+"277 71 OFFCURVE",
+"263 71 CURVE SMOOTH",
+"254 71 OFFCURVE",
+"249 66 OFFCURVE",
+"220 66 CURVE SMOOTH",
+"191 66 OFFCURVE",
+"166 80 OFFCURVE",
+"166 140 CURVE SMOOTH",
+"166 730 LINE SMOOTH",
+"166 744 OFFCURVE",
+"154 752 OFFCURVE",
+"126 752 CURVE SMOOTH",
+"122 752 LINE SMOOTH",
+"94 752 OFFCURVE",
+"82 744 OFFCURVE",
+"82 730 CURVE SMOOTH",
+"82 132 LINE SMOOTH",
+"82 16 OFFCURVE",
+"161 -6 OFFCURVE",
+"211 -6 CURVE SMOOTH"
+);
+}
+);
+width = 297;
+},
+{
+anchors = (
+{
+name = bottom;
+position = "{183, 0}";
+},
+{
+name = center;
+position = "{285, 375}";
+},
+{
+name = top;
+position = "{136, 720}";
+},
+{
+name = topright;
+position = "{240, 752}";
+}
+);
+layerId = "2C16E7AF-C861-4509-900A-75D3055B0FF7";
+paths = (
+{
+closed = 1;
+nodes = (
+"240 -8 OFFCURVE",
+"305 -5 OFFCURVE",
+"305 41 CURVE SMOOTH",
+"305 49 OFFCURVE",
+"294 113 OFFCURVE",
+"274 113 CURVE SMOOTH",
+"268 113 OFFCURVE",
+"256 109 OFFCURVE",
+"247 109 CURVE SMOOTH",
+"221 109 OFFCURVE",
+"211 122 OFFCURVE",
+"211 152 CURVE SMOOTH",
+"211 722 LINE SMOOTH",
+"211 743 OFFCURVE",
+"193 754 OFFCURVE",
+"151 754 CURVE SMOOTH",
+"123 754 LINE SMOOTH",
+"81 754 OFFCURVE",
+"63 743 OFFCURVE",
+"63 722 CURVE SMOOTH",
+"63 154 LINE SMOOTH",
+"63 43 OFFCURVE",
+"115 -8 OFFCURVE",
+"209 -8 CURVE SMOOTH"
+);
+}
+);
+width = 297;
+}
+);
+leftKerningGroup = l;
+rightKerningGroup = l;
+userData = {
+RMXScaler = {
+source = l;
+};
+};
 },
 {
 glyphname = y.loclGUA;
@@ -57089,7 +57170,6 @@ width = 274;
 );
 },
 {
-color = 3;
 glyphname = circumflexcomb_hookabovecomb;
 layers = (
 {
@@ -57472,27 +57552,6 @@ UUID0 = 1;
 name = Regular;
 },
 {
-customParameters = (
-{
-name = panose;
-value = (
-2,
-15,
-6,
-4,
-3,
-2,
-2,
-6,
-2,
-3
-);
-},
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --windows-compatibility";
-}
-);
 interpolationWeight = 92;
 instanceInterpolations = {
 "2C16E7AF-C861-4509-900A-75D3055B0FF7" = 0.28846;
@@ -57517,10 +57576,6 @@ value = (
 2,
 3
 );
-},
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --windows-compatibility";
 }
 );
 interpolationWeight = 111;
@@ -57547,10 +57602,6 @@ value = (
 2,
 3
 );
-},
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --windows-compatibility";
 }
 );
 interpolationWeight = 129;

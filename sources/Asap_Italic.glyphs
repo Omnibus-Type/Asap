@@ -1,9 +1,5 @@
 {
-.appVersion = "1126";
-DisplayStrings = (
-"0/florin 0",
-"/guarani 180"
-);
+.appVersion = "1127";
 classes = (
 {
 automatic = 1;
@@ -53,6 +49,19 @@ value = (
 "{523, 8}",
 "{0, -8}"
 );
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
+},
+{
+name = "Variation Font Origin";
+value = UUID0;
 }
 );
 date = "2018-04-01 21:49:24 +0000";
@@ -587,12 +596,12 @@ alignmentZones = (
 "{-208, -6}",
 "{-224, 10}"
 );
-ascender = 755;
+ascender = 934;
 capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 955;
+value = 1055;
 },
 {
 name = typoDescender;
@@ -697,9 +706,18 @@ position = -224;
 size = 10;
 }
 );
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
 }
 );
-descender = -245;
+}
+);
+descender = -212;
 guideLines = (
 {
 position = "{406.568, 761.562}";
@@ -747,12 +765,12 @@ alignmentZones = (
 "{-208, -6}",
 "{-232, -10}"
 );
-ascender = 755;
+ascender = 934;
 capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 955;
+value = 1055;
 },
 {
 name = typoDescender;
@@ -857,9 +875,18 @@ position = -232;
 size = -10;
 }
 );
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
 }
 );
-descender = -245;
+}
+);
+descender = -212;
 guideLines = (
 {
 alignment = center;
@@ -887,7 +914,7 @@ verticalStems = (
 159
 );
 weight = Bold;
-weightValue = 131;
+weightValue = 129;
 xHeight = 523;
 }
 );
@@ -25217,48 +25244,48 @@ paths = (
 {
 closed = 1;
 nodes = (
-"282 -6 OFFCURVE",
-"356 67 OFFCURVE",
-"356 159 CURVE SMOOTH",
-"356 249 OFFCURVE",
-"294 277 OFFCURVE",
-"234 301 CURVE SMOOTH",
-"187 319 OFFCURVE",
-"135 338 OFFCURVE",
-"135 389 CURVE SMOOTH",
-"135 432 OFFCURVE",
-"172 457 OFFCURVE",
-"234 457 CURVE SMOOTH",
-"290 457 OFFCURVE",
-"314 433 OFFCURVE",
-"324 433 CURVE SMOOTH",
-"336 433 OFFCURVE",
-"359 465 OFFCURVE",
-"359 483 CURVE SMOOTH",
-"359 515 OFFCURVE",
-"282 529 OFFCURVE",
-"232 529 CURVE SMOOTH",
-"135 529 OFFCURVE",
-"53 475 OFFCURVE",
-"53 379 CURVE SMOOTH",
-"53 292 OFFCURVE",
-"123 254 OFFCURVE",
-"180 234 CURVE SMOOTH",
-"228 217 OFFCURVE",
-"270 202 OFFCURVE",
-"270 147 CURVE SMOOTH",
-"270 97 OFFCURVE",
-"223 66 OFFCURVE",
-"162 66 CURVE SMOOTH",
-"92 66 OFFCURVE",
-"56 100 OFFCURVE",
-"43 100 CURVE SMOOTH",
-"33 100 OFFCURVE",
-"27 74 OFFCURVE",
-"27 51 CURVE SMOOTH",
-"27 23 OFFCURVE",
-"90 -6 OFFCURVE",
-"167 -6 CURVE SMOOTH"
+"284 -6 OFFCURVE",
+"358 67 OFFCURVE",
+"358 159 CURVE SMOOTH",
+"358 249 OFFCURVE",
+"296 277 OFFCURVE",
+"236 301 CURVE SMOOTH",
+"189 320 OFFCURVE",
+"137 338 OFFCURVE",
+"137 389 CURVE SMOOTH",
+"137 432 OFFCURVE",
+"174 457 OFFCURVE",
+"236 457 CURVE SMOOTH",
+"292 457 OFFCURVE",
+"316 433 OFFCURVE",
+"326 433 CURVE SMOOTH",
+"338 433 OFFCURVE",
+"361 465 OFFCURVE",
+"361 483 CURVE SMOOTH",
+"361 515 OFFCURVE",
+"284 529 OFFCURVE",
+"234 529 CURVE SMOOTH",
+"137 529 OFFCURVE",
+"55 475 OFFCURVE",
+"55 379 CURVE SMOOTH",
+"55 292 OFFCURVE",
+"125 254 OFFCURVE",
+"182 234 CURVE SMOOTH",
+"230 217 OFFCURVE",
+"272 202 OFFCURVE",
+"272 147 CURVE SMOOTH",
+"272 97 OFFCURVE",
+"225 66 OFFCURVE",
+"164 66 CURVE SMOOTH",
+"94 66 OFFCURVE",
+"58 100 OFFCURVE",
+"45 100 CURVE SMOOTH",
+"35 100 OFFCURVE",
+"29 74 OFFCURVE",
+"29 51 CURVE SMOOTH",
+"29 23 OFFCURVE",
+"92 -6 OFFCURVE",
+"169 -6 CURVE SMOOTH"
 );
 }
 );
@@ -59554,6 +59581,10 @@ value = (
 2,
 3
 );
+},
+{
+name = "TTFAutohint options";
+value = "--default-script=latn --windows-compatibility";
 }
 );
 interpolationWeight = 76;
@@ -59561,6 +59592,7 @@ instanceInterpolations = {
 UUID0 = 1;
 };
 isItalic = 1;
+linkStyle = Regular;
 name = Italic;
 },
 {
@@ -59579,12 +59611,16 @@ value = (
 2,
 3
 );
+},
+{
+name = "TTFAutohint options";
+value = "--default-script=latn --windows-compatibility";
 }
 );
-interpolationWeight = 91;
+interpolationWeight = 92;
 instanceInterpolations = {
-"DE974D70-A5B4-43AB-B940-69E4F08CB641" = 0.27273;
-UUID0 = 0.72727;
+"DE974D70-A5B4-43AB-B940-69E4F08CB641" = 0.30189;
+UUID0 = 0.69811;
 };
 isItalic = 1;
 linkStyle = Medium;
@@ -59607,12 +59643,16 @@ value = (
 2,
 3
 );
+},
+{
+name = "TTFAutohint options";
+value = "--default-script=latn --windows-compatibility";
 }
 );
-interpolationWeight = 110;
+interpolationWeight = 111;
 instanceInterpolations = {
-"DE974D70-A5B4-43AB-B940-69E4F08CB641" = 0.61818;
-UUID0 = 0.38182;
+"DE974D70-A5B4-43AB-B940-69E4F08CB641" = 0.66038;
+UUID0 = 0.33962;
 };
 isItalic = 1;
 linkStyle = SemiBold;
@@ -59635,14 +59675,19 @@ value = (
 2,
 3
 );
+},
+{
+name = "TTFAutohint options";
+value = "--default-script=latn --windows-compatibility";
 }
 );
-interpolationWeight = 131;
+interpolationWeight = 129;
 instanceInterpolations = {
 "DE974D70-A5B4-43AB-B940-69E4F08CB641" = 1;
 };
 isBold = 1;
 isItalic = 1;
+linkStyle = Bold;
 name = "Bold Italic";
 weightClass = Bold;
 }
