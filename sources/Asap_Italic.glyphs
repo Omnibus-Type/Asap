@@ -1,5 +1,5 @@
 {
-.appVersion = "1127";
+.appVersion = "1128";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap), with Reserved Font Name \"(Asap)\".";
+copyright = "Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) with Reserved Font Name \"Asap\".";
 customParameters = (
 {
 name = trademark;
@@ -601,11 +601,11 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 1055;
+value = 934;
 },
 {
 name = typoDescender;
-value = -264;
+value = -212;
 },
 {
 name = typoLineGap;
@@ -613,19 +613,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1055;
+value = 934;
 },
 {
 name = winDescent;
-value = 264;
+value = 212;
 },
 {
 name = hheaAscender;
-value = 1055;
+value = 934;
 },
 {
 name = hheaDescender;
-value = -264;
+value = -212;
 },
 {
 name = hheaLineGap;
@@ -770,11 +770,11 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 1055;
+value = 934;
 },
 {
 name = typoDescender;
-value = -264;
+value = -212;
 },
 {
 name = typoLineGap;
@@ -782,19 +782,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1055;
+value = 934;
 },
 {
 name = winDescent;
-value = 264;
+value = 212;
 },
 {
 name = hheaAscender;
-value = 1055;
+value = 934;
 },
 {
 name = hheaDescender;
-value = -264;
+value = -212;
 },
 {
 name = hheaLineGap;
@@ -59686,7 +59686,7 @@ instanceInterpolations = {
 };
 isBold = 1;
 isItalic = 1;
-linkStyle = Bold;
+linkStyle = Regular;
 name = "Bold Italic";
 weightClass = Bold;
 }

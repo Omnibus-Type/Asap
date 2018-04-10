@@ -1,8 +1,5 @@
 {
-.appVersion = "1127";
-DisplayStrings = (
-" "
-);
+.appVersion = "1128";
 classes = (
 {
 automatic = 1;
@@ -14,7 +11,7 @@ code = "";
 name = xxxx;
 }
 );
-copyright = "Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap), with Reserved Font Name \"(Asap)\".";
+copyright = "Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) with Reserved Font Name \"Asap\".";
 customParameters = (
 {
 name = trademark;
@@ -48,6 +45,14 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Family Alignment Zones";
+value = (
+"{700, 8}",
+"{523, 8}",
+"{0, -8}"
+);
 },
 {
 name = Axes;
@@ -571,11 +576,11 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 1055;
+value = 934;
 },
 {
 name = typoDescender;
-value = -264;
+value = -212;
 },
 {
 name = typoLineGap;
@@ -583,19 +588,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1055;
+value = 934;
 },
 {
 name = winDescent;
-value = 264;
+value = 212;
 },
 {
 name = hheaAscender;
-value = 1055;
+value = 934;
 },
 {
 name = hheaDescender;
-value = -264;
+value = -212;
 },
 {
 name = hheaLineGap;
@@ -779,11 +784,11 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 1055;
+value = 934;
 },
 {
 name = typoDescender;
-value = -264;
+value = -212;
 },
 {
 name = typoLineGap;
@@ -791,19 +796,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1055;
+value = 934;
 },
 {
 name = winDescent;
-value = 264;
+value = 212;
 },
 {
 name = hheaAscender;
-value = 1055;
+value = 934;
 },
 {
 name = hheaDescender;
-value = -264;
+value = -212;
 },
 {
 name = hheaLineGap;
@@ -57464,27 +57469,6 @@ UUID0 = 1;
 name = Regular;
 },
 {
-customParameters = (
-{
-name = panose;
-value = (
-2,
-15,
-6,
-4,
-3,
-2,
-2,
-6,
-2,
-3
-);
-},
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --windows-compatibility";
-}
-);
 interpolationWeight = 92;
 instanceInterpolations = {
 "2C16E7AF-C861-4509-900A-75D3055B0FF7" = 0.28846;
@@ -57509,10 +57493,6 @@ value = (
 2,
 3
 );
-},
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --windows-compatibility";
 }
 );
 interpolationWeight = 111;
@@ -57539,10 +57519,6 @@ value = (
 2,
 3
 );
-},
-{
-name = "TTFAutohint options";
-value = "--default-script=latn --windows-compatibility";
 }
 );
 interpolationWeight = 129;
@@ -57764,6 +57740,7 @@ comma = -60;
 "@MMK_R_o" = -40;
 };
 "@MMK_L_r" = {
+"@MMK_R_a" = -20;
 "@MMK_R_f" = -10;
 "@MMK_R_g" = -30;
 "@MMK_R_o" = -20;
@@ -58007,6 +57984,7 @@ comma = -60;
 "@MMK_R_o" = -40;
 };
 "@MMK_L_r" = {
+"@MMK_R_a" = -20;
 "@MMK_R_f" = -10;
 "@MMK_R_g" = -30;
 "@MMK_R_o" = -20;
