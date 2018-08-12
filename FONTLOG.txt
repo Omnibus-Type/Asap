@@ -13,7 +13,7 @@ at omnibus.type@gmail.com
 
 ChangeLog
 
-01 Apr 2018 (v.2.001) Omnibus-Type
+12 Aug 2018 (v.2.001) Omnibus-Type
 - Expanded character map to support GF Latin Plus
 – Enhancements on drawing
 - Added kerning pairs
