@@ -48,6 +48,9 @@ This information should be distributed along with the Asap fonts and any derivat
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**12 Aug 2018 (v.2.0) Omnibus-Type** 
+- Support for GF Latin Plus
+
 **05 Mar 2017 (v.1.9) Omnibus-Type**  
 - Enabled Panose with correct values
 - Enabled Family zoned
@@ -133,4 +136,4 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **N:** **Yorlmar Campos**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
-**D:** Typeface development 
+
