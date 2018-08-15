@@ -1,5 +1,8 @@
 {
 .appVersion = "1161";
+DisplayStrings = (
+"/Omega"
+);
 classes = (
 {
 automatic = 1;
@@ -603,11 +606,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 934;
+value = 1055;
 },
 {
 name = winDescent;
-value = 212;
+value = 264;
 },
 {
 name = hheaAscender;
@@ -620,14 +623,6 @@ value = -212;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = underlinePosition;
-value = -210;
-},
-{
-name = underlineThickness;
-value = 72;
 },
 {
 name = strikeoutPosition;
@@ -794,14 +789,6 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 934;
-},
-{
-name = winDescent;
-value = 212;
-},
-{
 name = hheaAscender;
 value = 934;
 },
@@ -812,14 +799,6 @@ value = -212;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = underlinePosition;
-value = -210;
-},
-{
-name = underlineThickness;
-value = 117;
 },
 {
 name = strikeoutPosition;
@@ -901,6 +880,14 @@ Axis = Weight;
 Location = 700;
 }
 );
+},
+{
+name = winAscent;
+value = 1055;
+},
+{
+name = winDescent;
+value = 264;
 }
 );
 descender = -212;
@@ -29016,9 +29003,9 @@ nodes = (
 "318 30 CURVE SMOOTH",
 "318 34 LINE SMOOTH",
 "318 44 OFFCURVE",
-"318 50 OFFCURVE",
+"317 50 OFFCURVE",
 "311 52 CURVE SMOOTH",
-"201.5 82.5 OFFCURVE",
+"203 88 OFFCURVE",
 "148 175 OFFCURVE",
 "148 352 CURVE SMOOTH",
 "148 536 OFFCURVE",
@@ -29028,9 +29015,9 @@ nodes = (
 "583 536 OFFCURVE",
 "583 352 CURVE SMOOTH",
 "583 175 OFFCURVE",
-"529 80 OFFCURVE",
+"527 88 OFFCURVE",
 "419 52 CURVE SMOOTH",
-"412 50 OFFCURVE",
+"413 50 OFFCURVE",
 "412 44 OFFCURVE",
 "412 34 CURVE SMOOTH",
 "412 30 LINE SMOOTH",
@@ -29046,7 +29033,7 @@ nodes = (
 "683 68 OFFCURVE",
 "669 68 CURVE SMOOTH",
 "647 68 OFFCURVE",
-"594 65 OFFCURVE",
+"604 65 OFFCURVE",
 "572 64 CURVE",
 "640 126 OFFCURVE",
 "674 222 OFFCURVE",
@@ -29060,7 +29047,7 @@ nodes = (
 "57 222 OFFCURVE",
 "91 126 OFFCURVE",
 "158 64 CURVE",
-"136 65 OFFCURVE",
+"126 65 OFFCURVE",
 "83 68 OFFCURVE",
 "61 68 CURVE SMOOTH",
 "47 68 OFFCURVE",

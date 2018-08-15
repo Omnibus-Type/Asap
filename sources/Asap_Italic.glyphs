@@ -632,11 +632,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 934;
+value = 1055;
 },
 {
 name = winDescent;
-value = 212;
+value = 264;
 },
 {
 name = hheaAscender;
@@ -649,14 +649,6 @@ value = -212;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = underlinePosition;
-value = -210;
-},
-{
-name = underlineThickness;
-value = 72;
 },
 {
 name = strikeoutPosition;
@@ -808,14 +800,6 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 934;
-},
-{
-name = winDescent;
-value = 212;
-},
-{
 name = hheaAscender;
 value = 934;
 },
@@ -826,14 +810,6 @@ value = -212;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = underlinePosition;
-value = -210;
-},
-{
-name = underlineThickness;
-value = 117;
 },
 {
 name = strikeoutPosition;
@@ -911,6 +887,14 @@ Axis = Weight;
 Location = 700;
 }
 );
+},
+{
+name = winDescent;
+value = 264;
+},
+{
+name = winAscent;
+value = 1055;
 }
 );
 descender = -212;
