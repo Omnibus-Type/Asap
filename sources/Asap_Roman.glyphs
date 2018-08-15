@@ -52,19 +52,6 @@ value = (
 "{523, 8}",
 "{0, -8}"
 );
-},
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
-},
-{
-name = "Variation Font Origin";
-value = UUID0;
 }
 );
 date = "2018-08-12 19:58:48 +0000";
@@ -695,15 +682,6 @@ position = -224;
 size = -10;
 }
 );
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
-}
-);
 }
 );
 descender = -212;
@@ -869,15 +847,6 @@ size = -6;
 name = "zone 5";
 position = -232;
 size = -10;
-}
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 700;
 }
 );
 },
