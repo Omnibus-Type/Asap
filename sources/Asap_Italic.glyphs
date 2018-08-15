@@ -49,19 +49,6 @@ value = (
 "{523, 8}",
 "{0, -8}"
 );
-},
-{
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
-},
-{
-name = "Variation Font Origin";
-value = UUID0;
 }
 );
 date = "2018-08-12 19:58:14 +0000";
@@ -632,11 +619,11 @@ value = 0;
 },
 {
 name = winAscent;
-value = 934;
+value = 1055;
 },
 {
 name = winDescent;
-value = 212;
+value = 264;
 },
 {
 name = hheaAscender;
@@ -649,14 +636,6 @@ value = -212;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = underlinePosition;
-value = -210;
-},
-{
-name = underlineThickness;
-value = 72;
 },
 {
 name = strikeoutPosition;
@@ -723,15 +702,6 @@ size = -6;
 name = "zone 5";
 position = -224;
 size = 10;
-}
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
 }
 );
 }
@@ -808,14 +778,6 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 934;
-},
-{
-name = winDescent;
-value = 212;
-},
-{
 name = hheaAscender;
 value = 934;
 },
@@ -826,14 +788,6 @@ value = -212;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = underlinePosition;
-value = -210;
-},
-{
-name = underlineThickness;
-value = 117;
 },
 {
 name = strikeoutPosition;
@@ -904,13 +858,12 @@ size = -10;
 );
 },
 {
-name = "Axis Location";
-value = (
+name = winDescent;
+value = 264;
+},
 {
-Axis = Weight;
-Location = 700;
-}
-);
+name = winAscent;
+value = 1055;
 }
 );
 descender = -212;
