@@ -1,7 +1,7 @@
 {
-.appVersion = "1161";
+.appVersion = "1163";
 DisplayStrings = (
-"/Omega"
+"/dieresisbelowcomb"
 );
 classes = (
 {
@@ -53683,25 +53683,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"282 -204 OFFCURVE",
-"300 -193 OFFCURVE",
-"300 -172 CURVE SMOOTH",
-"300 -112 LINE SMOOTH",
-"300 -91 OFFCURVE",
-"282 -80 OFFCURVE",
-"240 -80 CURVE SMOOTH",
-"198 -80 OFFCURVE",
-"180 -91 OFFCURVE",
-"180 -112 CURVE SMOOTH",
-"180 -172 LINE SMOOTH",
-"180 -193 OFFCURVE",
-"198 -204 OFFCURVE",
-"240 -204 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
 "102 -204 OFFCURVE",
 "120 -193 OFFCURVE",
 "120 -172 CURVE SMOOTH",
@@ -53716,6 +53697,25 @@ nodes = (
 "0 -193 OFFCURVE",
 "18 -204 OFFCURVE",
 "60 -204 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"282 -204 OFFCURVE",
+"300 -193 OFFCURVE",
+"300 -172 CURVE SMOOTH",
+"300 -112 LINE SMOOTH",
+"300 -91 OFFCURVE",
+"282 -80 OFFCURVE",
+"240 -80 CURVE SMOOTH",
+"198 -80 OFFCURVE",
+"180 -91 OFFCURVE",
+"180 -112 CURVE SMOOTH",
+"180 -172 LINE SMOOTH",
+"180 -193 OFFCURVE",
+"198 -204 OFFCURVE",
+"240 -204 CURVE SMOOTH"
 );
 }
 );
