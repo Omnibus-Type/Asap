@@ -3,7 +3,7 @@
 **Omnibus-Type**  
 *SIL Open Font License, 1.1*
 
-Asap is a contemporary sans-serif family with subtle rounded corners. Designed by Pablo Cosgaya, Asap ("as soon as possible") there are 8 styles: Regular, Italic, Medium, Medium Italic, Semibold, Semibold Italic, Bold, and Bold Italic. This family, specially developed for screen and desktop use, offers a standarised character width on all styles, which means lines of text remain the same length. This useful feature allows users to change type styles on-the-go without reflowing a text body. Asap is based on Ancha (designed by Pablo Cosgaya & Hector Gatti), and has been developed with the collaboration of Andres Torresi and Nicolas Silva.
+Asap is a contemporary sans-serif family with subtle rounded corners. Designed by Pablo Cosgaya, Asap ("as soon as possible") there are 8 styles: Regular, Italic, Medium, Medium Italic, Semibold, Semibold Italic, Bold, and Bold Italic. This family, specially developed for screen and desktop use, offers a standarised character width on all styles, which means lines of text remain the same length. This useful feature allows users to change type styles on-the-go without reflowing a text body. Asap is based on Ancha (designed by Pablo Cosgaya & Héctor Gatti), and has been developed with the collaboration of Andrés Torresi, Nicolás Silva and Yorlmar Campos.
 
 ![Sample of Asap Family.](sources/Asap.gif "Asap Family")
 
@@ -21,7 +21,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2011-2018, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)
+Copyright (c) 2019, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com)
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -33,9 +33,9 @@ This information should be distributed along with the Asap fonts and any derivat
 
 ### Asap is a typeface family that supports Unicode language range: 
 
-* Basic Latin 				U+0020-U+007E
+* Basic Latin 			U+0020-U+007E
 * Latin-1 Supplement 		U+00A0-U+00FF
-* Latin Extended-A 			U+0100-U+017F
+* Latin Extended-A 		U+0100-U+017F
 * Latin Extended Additional*	U+1E00-U+1EFF *(111/256)
 
 **Character map to support MS Codepages:**
@@ -49,7 +49,8 @@ This information should be distributed along with the Asap fonts and any derivat
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
 **12 Aug 2018 (v.2.0) Omnibus-Type** 
-- Support for GF Latin Plus
+- Updated to GF Latin Plus set
+- Supports 219 Latin languages used in 212 countries
 
 **05 Mar 2017 (v.1.9) Omnibus-Type**  
 - Enabled Panose with correct values
@@ -113,17 +114,17 @@ This information should be distributed along with the Asap fonts and any derivat
 If you make modifications be sure to add your name (N), email (E), web-address
 (if you have one) (W) and description (D). This list is in alphabetical order.
 
-**N:** **Andres Torresi**  
+**N:** **Andrés Torresi**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Assistant designer of Asap family  
 
-**N:** **Hector Gatti**  
+**N:** **Héctor Gatti**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Designer of Ancha upstream  
 
-**N:** **Nicolas Silva**  
+**N:** **Nicolás Silva**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Typeface development  
