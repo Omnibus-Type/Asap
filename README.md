@@ -8,10 +8,10 @@ Asap is a contemporary sans-serif family with subtle rounded corners. Designed b
 ![Sample of Asap Family.](sources/Asap.gif "Asap Family")
 
 #### Asap Family contains:
-* Regular/Italic
-* Medium/MediumItalic
-* Semibold/SemiboldItalic
-* Bold/BoldItalic
+* Regular / Italic
+* Medium / Medium Italic
+* Semibold / Semibold Italic
+* Bold / Bold Italic
 
 To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
