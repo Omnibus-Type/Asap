@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron" format="2">
+  <advance width="565"/>
+  <unicode hex="010F"/>
+  <note>
+caron, revisar kerningespaciado con ascendentes
+</note>
+  <outline>
+    <component base="d"/>
+    <component base="caroncomb.alt" xOffset="518" yOffset="50"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>caroncomb.alt</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.annotations</key>
+      <array>
+        <dict>
+          <key>position</key>
+          <array>
+            <integer>688</integer>
+            <integer>604</integer>
+          </array>
+          <key>type</key>
+          <string>Arrow</string>
+          <key>width</key>
+          <integer>100</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

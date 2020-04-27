@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M" format="2">
+  <outline>
+    <contour>
+      <point x="177" y="507" type="move"/>
+      <point x="177" y="526"/>
+      <point x="177" y="544"/>
+      <point x="175" y="562" type="curve"/>
+      <point x="179" y="563" type="line"/>
+      <point x="187" y="547"/>
+      <point x="194" y="533"/>
+      <point x="203" y="518" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="666" y="501" type="move"/>
+      <point x="666" y="520"/>
+      <point x="666" y="538"/>
+      <point x="668" y="556" type="curve"/>
+      <point x="664" y="557" type="line"/>
+      <point x="656" y="541"/>
+      <point x="649" y="527"/>
+      <point x="640" y="512" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb.case" format="2">
+  <anchor x="178" y="523" name="_top"/>
+  <anchor x="194" y="675" name="top"/>
+  <outline>
+    <component base="brevecomb.case" xScale="-1" yScale="-1" xOffset="380" yOffset="1275"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>301</integer>
+    </dict>
+  </lib>
+</glyph>
