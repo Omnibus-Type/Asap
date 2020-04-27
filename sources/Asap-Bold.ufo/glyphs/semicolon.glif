@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <advance width="198"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="83" y="369" type="curve" smooth="yes"/>
+      <point x="115" y="369" type="line" smooth="yes"/>
+      <point x="157" y="369"/>
+      <point x="175" y="380"/>
+      <point x="175" y="401" type="curve" smooth="yes"/>
+      <point x="175" y="493" type="line" smooth="yes"/>
+      <point x="175" y="514"/>
+      <point x="157" y="525"/>
+      <point x="115" y="525" type="curve" smooth="yes"/>
+      <point x="83" y="525" type="line" smooth="yes"/>
+      <point x="41" y="525"/>
+      <point x="23" y="514"/>
+      <point x="23" y="493" type="curve" smooth="yes"/>
+      <point x="23" y="401" type="line" smooth="yes"/>
+      <point x="23" y="380"/>
+      <point x="41" y="369"/>
+    </contour>
+    <component base="comma"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>comma</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
