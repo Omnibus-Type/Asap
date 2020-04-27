@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peseta" format="2">
+  <outline>
+    <contour>
+      <point x="110" y="507" type="move"/>
+      <point x="65" y="507" type="line" smooth="yes"/>
+      <point x="50" y="507"/>
+      <point x="41" y="499"/>
+      <point x="38" y="475" type="curve" smooth="yes"/>
+      <point x="37" y="466" type="line" smooth="yes"/>
+      <point x="34" y="439"/>
+      <point x="43" y="432"/>
+      <point x="56" y="432" type="curve" smooth="yes"/>
+      <point x="102" y="432" type="line"/>
+    </contour>
+    <contour>
+      <point x="584" y="433" type="move"/>
+      <point x="629" y="433" type="line" smooth="yes"/>
+      <point x="646" y="433"/>
+      <point x="653" y="441"/>
+      <point x="656" y="465" type="curve" smooth="yes"/>
+      <point x="657" y="474" type="line" smooth="yes"/>
+      <point x="660" y="500"/>
+      <point x="652" y="508"/>
+      <point x="638" y="508" type="curve" smooth="yes"/>
+      <point x="592" y="508" type="line"/>
+    </contour>
+  </outline>
+</glyph>

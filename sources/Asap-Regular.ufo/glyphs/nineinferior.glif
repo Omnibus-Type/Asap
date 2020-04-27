@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nineinferior" format="2">
+  <advance width="310"/>
+  <unicode hex="2089"/>
+  <outline>
+    <contour>
+      <point x="91" y="-55" type="curve" smooth="yes"/>
+      <point x="132" y="-55"/>
+      <point x="285" y="44"/>
+      <point x="285" y="213" type="curve" smooth="yes"/>
+      <point x="285" y="306"/>
+      <point x="244" y="362"/>
+      <point x="158" y="362" type="curve" smooth="yes"/>
+      <point x="86" y="362"/>
+      <point x="29" y="314"/>
+      <point x="29" y="239" type="curve" smooth="yes"/>
+      <point x="29" y="167"/>
+      <point x="80" y="120"/>
+      <point x="143" y="120" type="curve" smooth="yes"/>
+      <point x="179" y="120"/>
+      <point x="207" y="129"/>
+      <point x="225" y="140" type="curve"/>
+      <point x="206" y="74"/>
+      <point x="156" y="22"/>
+      <point x="76" y="-18" type="curve" smooth="yes"/>
+      <point x="72" y="-20"/>
+      <point x="72" y="-22"/>
+      <point x="72" y="-24" type="curve" smooth="yes"/>
+      <point x="72" y="-31"/>
+      <point x="79" y="-55"/>
+    </contour>
+    <contour>
+      <point x="158" y="162" type="curve" smooth="yes"/>
+      <point x="118" y="162"/>
+      <point x="79" y="184"/>
+      <point x="79" y="242" type="curve" smooth="yes"/>
+      <point x="79" y="296"/>
+      <point x="123" y="320"/>
+      <point x="155" y="320" type="curve" smooth="yes"/>
+      <point x="193" y="320"/>
+      <point x="237" y="301"/>
+      <point x="237" y="218" type="curve" smooth="yes"/>
+      <point x="237" y="206"/>
+      <point x="235" y="192"/>
+      <point x="234" y="182" type="curve"/>
+      <point x="217" y="173"/>
+      <point x="190" y="162"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>59</integer>
+        <key>verticalShift</key>
+        <integer>287</integer>
+        <key>weight</key>
+        <integer>-32</integer>
+        <key>width</key>
+        <integer>60</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

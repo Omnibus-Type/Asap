@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y.loclGUA" format="2">
+  <outline>
+    <contour>
+      <point x="430" y="700" type="curve" smooth="yes"/>
+      <point x="426" y="700" type="line" smooth="yes"/>
+      <point x="398" y="700"/>
+      <point x="386" y="692"/>
+      <point x="386" y="678" type="curve" smooth="yes"/>
+      <point x="386" y="312" type="line"/>
+      <point x="353" y="269"/>
+      <point x="305" y="242"/>
+      <point x="260" y="242" type="curve" smooth="yes"/>
+      <point x="195" y="242"/>
+      <point x="158" y="278"/>
+      <point x="158" y="339" type="curve" smooth="yes"/>
+      <point x="158" y="678" type="line" smooth="yes"/>
+      <point x="158" y="692"/>
+      <point x="146" y="700"/>
+      <point x="118" y="700" type="curve" smooth="yes"/>
+      <point x="114" y="700" type="line" smooth="yes"/>
+      <point x="86" y="700"/>
+      <point x="74" y="692"/>
+      <point x="74" y="678" type="curve" smooth="yes"/>
+      <point x="74" y="331" type="line" smooth="yes"/>
+      <point x="74" y="230"/>
+      <point x="135" y="169"/>
+      <point x="237" y="169" type="curve" smooth="yes"/>
+      <point x="293" y="169"/>
+      <point x="351" y="197"/>
+      <point x="393" y="244" type="curve"/>
+      <point x="399" y="218"/>
+      <point x="404" y="178"/>
+      <point x="428" y="178" type="curve" smooth="yes"/>
+      <point x="441" y="178"/>
+      <point x="482" y="182"/>
+      <point x="482" y="201" type="curve" smooth="yes"/>
+      <point x="482" y="206"/>
+      <point x="470" y="245"/>
+      <point x="470" y="327" type="curve" smooth="yes"/>
+      <point x="470" y="678" type="line" smooth="yes"/>
+      <point x="470" y="692"/>
+      <point x="458" y="700"/>
+    </contour>
+  </outline>
+</glyph>

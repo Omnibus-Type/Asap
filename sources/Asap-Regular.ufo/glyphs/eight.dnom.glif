@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight.dnom" format="2">
+  <advance width="310"/>
+  <outline>
+    <component base="eightinferior" yOffset="50"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>height</key>
+        <integer>59</integer>
+        <key>verticalShift</key>
+        <integer>287</integer>
+        <key>weight</key>
+        <integer>-32</integer>
+        <key>width</key>
+        <integer>59</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
