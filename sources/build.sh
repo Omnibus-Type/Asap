@@ -15,14 +15,14 @@ mkdir -p ../fonts
 # mkdir -p ../fonts/otf
 mkdir -p ../fonts/ttf
 mkdir -p ../fonts/variable
-fontmake -m Asap_Roman.designspace -i -o ttf --output-dir ../fonts/ttf/
-# fontmake -m Asap_Roman.designspace -i -o otf --output-dir ../fonts/otf/
-fontmake -m Asap_Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
-# fontmake -m Asap_Italic.designspace -i -o otf --output-dir ../fonts/otf/
+fontmake -m Asap-Roman.designspace -i -o ttf --output-dir ../fonts/ttf/
+# fontmake -m Asap-Roman.designspace -i -o otf --output-dir ../fonts/otf/
+fontmake -m Asap-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
+# fontmake -m Asap-Italic.designspace -i -o otf --output-dir ../fonts/otf/
 
 echo "Generating VFs"
-fontmake -m Asap_Roman.designspace -o variable --output-path ../fonts/variable/Asap[wght].ttf
-fontmake -m Asap_Italic.designspace -o variable --output-path ../fonts/variable/Asap_Italic[wght].ttf
+fontmake -m Asap-Roman.designspace -o variable --output-path ../fonts/variable/Asap[wght].ttf
+fontmake -m Asap-Italic.designspace -o variable --output-path ../fonts/variable/Asap-Italic[wght].ttf
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/
 
