@@ -126,6 +126,7 @@
       <string>Jcircumflex</string>
       <string>LJ</string>
       <string>NJ</string>
+      <string>Iacute_J_acutecomb</string>
     </array>
     <key>public.kern1.K</key>
     <array>
@@ -438,7 +439,6 @@
       <string>ij</string>
       <string>j</string>
       <string>jdotless</string>
-      <string>jacute</string>
       <string>jcircumflex</string>
       <string>lj</string>
       <string>nj</string>
@@ -455,6 +455,7 @@
       <string>gcircumflex.ss01</string>
       <string>gcommaaccent.ss01</string>
       <string>gdotaccent.ss01</string>
+      <string>iacute_j_acutecomb</string>
     </array>
     <key>public.kern1.k</key>
     <array>
@@ -788,6 +789,7 @@
       <string>Germandbls</string>
       <string>Nacute.loclPLK</string>
       <string>franc</string>
+      <string>Iacute_J_acutecomb</string>
     </array>
     <key>public.kern2.J</key>
     <array>
@@ -1041,8 +1043,8 @@
       <string>imacron</string>
       <string>iogonek</string>
       <string>itilde</string>
-      <string>jacute</string>
       <string>kgreenlandic</string>
+      <string>iacute_j_acutecomb</string>
     </array>
     <key>public.kern2.j</key>
     <array>

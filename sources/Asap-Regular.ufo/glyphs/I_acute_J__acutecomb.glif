@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="jacute" format="2">
-  <advance width="541"/>
+<glyph name="Iacute_J_acutecomb" format="2">
+  <advance width="685"/>
   <outline>
-    <component base="idotless"/>
-    <component base="acutecomb" xOffset="55"/>
-    <component base="jdotless" xOffset="265"/>
-    <component base="acutecomb" xOffset="331"/>
+    <component base="I"/>
+    <component base="acutecomb.case" xOffset="55" yOffset="177"/>
+    <component base="J" xOffset="283"/>
+    <component base="acutecomb.case" xOffset="472" yOffset="177"/>
   </outline>
   <lib>
     <dict>
@@ -17,7 +17,7 @@
           <key>index</key>
           <integer>3</integer>
           <key>name</key>
-          <string>acutecomb</string>
+          <string>acutecomb.case</string>
         </dict>
       </array>
     </dict>
