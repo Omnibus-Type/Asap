@@ -153,8 +153,6 @@
     <integer>129</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>100</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>DE974D70-A5B4-43AB-B940-69E4F08CB641</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>

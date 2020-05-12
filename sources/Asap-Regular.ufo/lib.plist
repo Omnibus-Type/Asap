@@ -3235,8 +3235,6 @@ alignToZone = baseline;
     <integer>77</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>100</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>UUID0</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>
