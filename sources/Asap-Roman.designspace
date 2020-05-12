@@ -25,7 +25,7 @@
     </source>
   </sources>
   <instances>
-    <instance name="Asap Regular" familyname="Asap" stylename="Regular" filename="instance_ufos/Asap-Regular.ufo">
+    <instance name="Asap Regular" familyname="Asap" stylename="Regular" filename="instance_ufos/Asap-Regular.ufo" stylemapfamilyname="Asap" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="77"/>
       </location>
@@ -55,23 +55,10 @@
               <string>--default-script=latn --windows-compatibility</string>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>UUID0</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Asap Medium" familyname="Asap" stylename="Medium" filename="instance_ufos/Asap-Medium.ufo">
+    <instance name="Asap Medium" familyname="Asap" stylename="Medium" filename="instance_ufos/Asap-Medium.ufo" stylemapfamilyname="Asap Medium" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="92"/>
       </location>
@@ -101,25 +88,10 @@
               <string>--default-script=latn --windows-compatibility</string>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>2C16E7AF-C861-4509-900A-75D3055B0FF7</key>
-            <real>0.28846</real>
-            <key>UUID0</key>
-            <real>0.71154</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Medium</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Asap SemiBold" familyname="Asap" stylename="SemiBold" filename="instance_ufos/Asap-SemiBold.ufo">
+    <instance name="Asap SemiBold" familyname="Asap" stylename="SemiBold" filename="instance_ufos/Asap-SemiBold.ufo" stylemapfamilyname="Asap SemiBold" stylemapstylename="regular">
       <location>
         <dimension name="Weight" xvalue="111"/>
       </location>
@@ -149,25 +121,10 @@
               <string>--default-script=latn --windows-compatibility</string>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>2C16E7AF-C861-4509-900A-75D3055B0FF7</key>
-            <real>0.65385</real>
-            <key>UUID0</key>
-            <real>0.34615</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>SemiBold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
-    <instance name="Asap Bold" familyname="Asap" stylename="Bold" filename="instance_ufos/Asap-Bold.ufo">
+    <instance name="Asap Bold" familyname="Asap" stylename="Bold" filename="instance_ufos/Asap-Bold.ufo" stylemapfamilyname="Asap" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="129"/>
       </location>
@@ -197,19 +154,6 @@
               <string>--default-script=latn --windows-compatibility</string>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>2C16E7AF-C861-4509-900A-75D3055B0FF7</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Bold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>

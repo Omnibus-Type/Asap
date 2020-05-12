@@ -25,7 +25,7 @@
     </source>
   </sources>
   <instances>
-    <instance name="Asap Italic" familyname="Asap" stylename="Italic" filename="instance_ufos/Asap-Italic.ufo">
+    <instance name="Asap Italic" familyname="Asap" stylename="Italic" filename="instance_ufos/Asap-Italic.ufo" stylemapfamilyname="Asap" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="76"/>
       </location>
@@ -55,19 +55,6 @@
               <string>--default-script=latn --windows-compatibility</string>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>UUID0</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -101,21 +88,6 @@
               <string>--default-script=latn --windows-compatibility</string>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>DE974D70-A5B4-43AB-B940-69E4F08CB641</key>
-            <real>0.30189</real>
-            <key>UUID0</key>
-            <real>0.69811</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Medium</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -149,21 +121,6 @@
               <string>--default-script=latn --windows-compatibility</string>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>DE974D70-A5B4-43AB-B940-69E4F08CB641</key>
-            <real>0.66038</real>
-            <key>UUID0</key>
-            <real>0.33962</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>SemiBold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
@@ -197,19 +154,6 @@
               <string>--default-script=latn --windows-compatibility</string>
             </array>
           </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>DE974D70-A5B4-43AB-B940-69E4F08CB641</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Bold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
         </dict>
       </lib>
     </instance>
