@@ -10,14 +10,12 @@ languagesystem latn AZE;
 languagesystem latn ESP;
 languagesystem latn GUA;
 languagesystem latn CRT;
-languagesystem latn NLD;
 languagesystem latn TAT;
 languagesystem latn CAT;
 languagesystem latn KAZ;
 languagesystem latn MOL;
 languagesystem latn ROM;
 languagesystem latn PLK;
-
 
 feature aalt {
 # automatic
@@ -71,8 +69,6 @@ lookup ccmp_latn_1 {
 	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
 	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
 } ccmp_latn_1;
-
-script latn;
 
 } ccmp;
 
@@ -136,9 +132,6 @@ sub numbersign asciitilde y by ytilde.loclGUA;
 sub numbersign dollar [G g] by guarani;
 language CRT;
 sub i by idotaccent;
-language NLD;
-sub iacute j by iacute_j_acutecomb;
-sub Iacute J by Iacute_J_acutecomb;
 language TAT;
 sub i by idotaccent;
 language CAT;
@@ -425,6 +418,9 @@ sub yhookabove by yhookabove.loclGUA;
 feature calt {
 sub @Uppercase germandbls' @Uppercase by germandbls.calt;
 sub @Uppercase @Uppercase germandbls' by germandbls.calt;
+sub IJ acutecomb by Iacute_J_acutecomb;
+sub IJ acutecomb.case by Iacute_J_acutecomb;
+sub ij acutecomb by iacute_j_acutecomb;
 } calt;
 
 feature sinf {
