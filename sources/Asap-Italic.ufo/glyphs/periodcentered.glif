@@ -2,7 +2,6 @@
 <glyph name="periodcentered" format="2">
   <advance width="267"/>
   <unicode hex="00B7"/>
-  <anchor x="143" y="360" name="_center"/>
   <outline>
     <contour>
       <point x="140" y="309" type="curve" smooth="yes"/>
