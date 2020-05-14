@@ -743,6 +743,14 @@
         <string>acutecomb</string>
       </dict>
     </dict>
+    <key>com.schriftgestaltung.Glyphs.glyphUserData.acutecomb.loclPLK</key>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>source</key>
+        <string>acute</string>
+      </dict>
+    </dict>
     <key>com.schriftgestaltung.Glyphs.glyphUserData.aeacute</key>
     <dict>
       <key>RMXScaler</key>
