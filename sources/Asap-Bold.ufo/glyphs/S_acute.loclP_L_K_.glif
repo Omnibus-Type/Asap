@@ -3,7 +3,7 @@
   <advance width="500"/>
   <outline>
     <component base="S"/>
-    <component base="acute.loclPLK" xOffset="210" yOffset="177"/>
+    <component base="acutecomb.loclPLK" xOffset="210" yOffset="177"/>
   </outline>
   <lib>
     <dict>
@@ -15,7 +15,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>acute.loclPLK</string>
+          <string>acutecomb.loclPLK</string>
         </dict>
       </array>
     </dict>

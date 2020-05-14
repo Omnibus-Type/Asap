@@ -516,6 +516,8 @@
     <string>acutecomb.glif</string>
     <key>acutecomb.case</key>
     <string>acutecomb.case.glif</string>
+    <key>acutecomb.loclPLK</key>
+    <string>acutecomb.loclP_L_K_.glif</string>
     <key>adblgrave</key>
     <string>adblgrave.glif</string>
     <key>adieresis</key>
