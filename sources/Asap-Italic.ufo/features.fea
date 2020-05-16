@@ -120,6 +120,8 @@ lookup y_alternate{
 	sub Ycircumflex by Ycircumflex.loclGUA;
 	sub Ydieresis by Ydieresis.loclGUA;
 	sub Ygrave by Ygrave.loclGUA;
+	sub Ytilde by Ytilde.loclGUA;
+	# sub Ymacron by Ymacron.loclGUA;
 	sub Ydotbelow by Ydotbelow.loclGUA;
 	sub Yhookabove by Yhookabove.loclGUA;
 	sub y by y.loclGUA;
@@ -127,6 +129,8 @@ lookup y_alternate{
 	sub ycircumflex by ycircumflex.loclGUA;
 	sub ydieresis by ydieresis.loclGUA;
 	sub ygrave by ygrave.loclGUA;
+	sub ytilde by ytilde.loclGUA;
+	# sub ymacron by ymacron.loclGUA;
 	sub ydotbelow by ydotbelow.loclGUA;
 	sub yhookabove by yhookabove.loclGUA;
 } y_alternate;
