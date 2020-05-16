@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acute.loclPLK" format="2">
   <advance width="164"/>
-  <anchor x="40" y="523" name="_top"/>
   <outline>
     <contour>
       <point x="37" y="575" type="curve" smooth="yes"/>

@@ -1,5 +1,5 @@
 # automatic
-@Uppercase = [ A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D DZ DZcaron Eth Dcaron Dcroat Ddotbelow Dz Dzcaron E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idblgrave Idieresis Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Lj Lslash M N NJ Nacute Ncaron Ncommaaccent Ndotaccent Eng Nhookleft Nj Ntilde O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Oogonek Oslash Oslashacute Otilde Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow U Uacute Ubreve Ucaron Ucircumflex Udblgrave Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Y.loclGUA Yacute.loclGUA Ycircumflex.loclGUA Ydieresis.loclGUA Ydotbelow.loclGUA Ygrave.loclGUA Yhookabove.loclGUA Ytilde.loclGUA Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK Delta Omega ];
+@Uppercase = [ A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D DZ DZcaron Eth Dcaron Dcroat Ddotbelow Dz Dzcaron E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idblgrave Idieresis Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Iacute_J_acutecomb Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Lj Lslash M N NJ Nacute Ncaron Ncommaaccent Ndotaccent Eng Nhookleft Nj Ntilde O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Oogonek Oslash Oslashacute Otilde Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotbelow Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow U Uacute Ubreve Ucaron Ucircumflex Udblgrave Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Y.loclGUA Yacute.loclGUA Ycircumflex.loclGUA Ydieresis.loclGUA Ydotbelow.loclGUA Ygrave.loclGUA Yhookabove.loclGUA Ytilde.loclGUA Cacute.loclPLK Nacute.loclPLK Oacute.loclPLK Sacute.loclPLK Zacute.loclPLK Delta Omega ];
 
 # Prefix: Languagesystems
 # automatic
@@ -7,17 +7,15 @@ languagesystem DFLT dflt;
 languagesystem latn dflt;
 languagesystem latn TRK;
 languagesystem latn AZE;
-languagesystem latn ESP;
+# languagesystem latn ESP;
 languagesystem latn GUA;
 languagesystem latn CRT;
-languagesystem latn NLD;
 languagesystem latn TAT;
 languagesystem latn CAT;
 languagesystem latn KAZ;
 languagesystem latn MOL;
 languagesystem latn ROM;
 languagesystem latn PLK;
-
 
 feature aalt {
 # automatic
@@ -49,6 +47,10 @@ lookup ccmp_Other_1 {
 	@CombiningNonTopAccents = [brevebelowcomb cedillacomb dieresisbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb strokeshortcomb];
 	sub [i j]' @CombiningTopAccents by [idotless jdotless];
 	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+	sub iogonek' @CombiningTopAccents by idotless ogonekcomb;
+	sub iogonek' @CombiningNonTopAccents @CombiningTopAccents by idotless ogonekcomb;
+	sub idotbelow' @CombiningTopAccents by idotless dotbelowcomb;
+	sub idotbelow' @CombiningNonTopAccents @CombiningTopAccents by idotless dotbelowcomb;
 	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb dblgravecomb breveinvertedcomb commaturnedabovecomb horncomb dotbelowcomb dieresisbelowcomb commaaccentcomb cedillacomb ogonekcomb brevebelowcomb macronbelowcomb];
 	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case dblgravecomb.case breveinvertedcomb.case commaturnedabovecomb.case horncomb.case dotbelowcomb.case dieresisbelowcomb.case commaaccentcomb.case cedillacomb.case ogonekcomb.case brevebelowcomb.case macronbelowcomb.case];
 	sub @Markscomb @Markscomb' by @MarkscombCase;
@@ -72,8 +74,6 @@ lookup ccmp_latn_1 {
 	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
 } ccmp_latn_1;
 
-script latn;
-
 } ccmp;
 
 feature locl {
@@ -84,61 +84,61 @@ language TRK;
 sub i by idotaccent;
 language AZE;
 sub i by idotaccent;
-language ESP;
-sub numbersign quotesingle by quotesingle.loclGUA;
-sub numbersign Y by Y.loclGUA;
-sub numbersign Yacute by Yacute.loclGUA;
-sub numbersign Ycircumflex by Ycircumflex.loclGUA;
-sub numbersign Ydieresis by Ydieresis.loclGUA;
-sub numbersign Ygrave by Ygrave.loclGUA;
-sub numbersign Y tilde by Ytilde.loclGUA;
-sub numbersign tilde Y by Ytilde.loclGUA;
-sub numbersign Y asciitilde by Ytilde.loclGUA;
-sub numbersign asciitilde Y by Ytilde.loclGUA;
-sub numbersign Ydotbelow by Ydotbelow.loclGUA;
-sub numbersign Yhookabove by Yhookabove.loclGUA;
-sub numbersign y by y.loclGUA;
-sub numbersign yacute by yacute.loclGUA;
-sub numbersign ycircumflex by ycircumflex.loclGUA;
-sub numbersign ydieresis by ydieresis.loclGUA;
-sub numbersign ygrave by ygrave.loclGUA;
-sub numbersign y tilde by ytilde.loclGUA;
-sub numbersign tilde y by ytilde.loclGUA;
-sub numbersign y asciitilde by ytilde.loclGUA;
-sub numbersign ydotbelow by ydotbelow.loclGUA;
-sub numbersign yhookabove by yhookabove.loclGUA;
-sub numbersign asciitilde y by ytilde.loclGUA;
-sub numbersign dollar [G g] by guarani;
+##  This is problematic as it would break things like
+##  hashtags, and breaks character semantics in general.
+# language ESP;
+# lookup numbersign_loclGUA {
+# 	sub numbersign quotesingle by quotesingle.loclGUA;
+# 	sub numbersign Y by Y.loclGUA;
+# 	sub numbersign Yacute by Yacute.loclGUA;
+# 	sub numbersign Ycircumflex by Ycircumflex.loclGUA;
+# 	sub numbersign Ydieresis by Ydieresis.loclGUA;
+# 	sub numbersign Ygrave by Ygrave.loclGUA;
+# 	sub numbersign Y tilde by Ytilde.loclGUA;
+# 	sub numbersign tilde Y by Ytilde.loclGUA;
+# 	sub numbersign Y asciitilde by Ytilde.loclGUA;
+# 	sub numbersign asciitilde Y by Ytilde.loclGUA;
+# 	sub numbersign Ydotbelow by Ydotbelow.loclGUA;
+# 	sub numbersign Yhookabove by Yhookabove.loclGUA;
+# 	sub numbersign y by y.loclGUA;
+# 	sub numbersign yacute by yacute.loclGUA;
+# 	sub numbersign ycircumflex by ycircumflex.loclGUA;
+# 	sub numbersign ydieresis by ydieresis.loclGUA;
+# 	sub numbersign ygrave by ygrave.loclGUA;
+# 	sub numbersign y tilde by ytilde.loclGUA;
+# 	sub numbersign tilde y by ytilde.loclGUA;
+# 	sub numbersign y asciitilde by ytilde.loclGUA;
+# 	sub numbersign ydotbelow by ydotbelow.loclGUA;
+# 	sub numbersign yhookabove by yhookabove.loclGUA;
+# 	sub numbersign asciitilde y by ytilde.loclGUA;
+# 	sub numbersign dollar [G g] by guarani;
+# } numbersign_loclGUA;
 language GUA;
-sub numbersign quotesingle by quotesingle.loclGUA;
-sub numbersign Y by Y.loclGUA;
-sub numbersign Yacute by Yacute.loclGUA;
-sub numbersign Ycircumflex by Ycircumflex.loclGUA;
-sub numbersign Ydieresis by Ydieresis.loclGUA;
-sub numbersign Ygrave by Ygrave.loclGUA;
-sub numbersign Y tilde by Ytilde.loclGUA;
-sub numbersign tilde Y by Ytilde.loclGUA;
-sub numbersign Y asciitilde by Ytilde.loclGUA;
-sub numbersign asciitilde Y by Ytilde.loclGUA;
-sub numbersign Ydotbelow by Ydotbelow.loclGUA;
-sub numbersign Yhookabove by Yhookabove.loclGUA;
-sub numbersign y by y.loclGUA;
-sub numbersign yacute by yacute.loclGUA;
-sub numbersign ycircumflex by ycircumflex.loclGUA;
-sub numbersign ydieresis by ydieresis.loclGUA;
-sub numbersign ygrave by ygrave.loclGUA;
-sub numbersign y tilde by ytilde.loclGUA;
-sub numbersign tilde y by ytilde.loclGUA;
-sub numbersign y asciitilde by ytilde.loclGUA;
-sub numbersign ydotbelow by ydotbelow.loclGUA;
-sub numbersign yhookabove by yhookabove.loclGUA;
-sub numbersign asciitilde y by ytilde.loclGUA;
-sub numbersign dollar [G g] by guarani;
+lookup y_alternate{
+	sub Y by Y.loclGUA;
+	sub Yacute by Yacute.loclGUA;
+	sub Ycircumflex by Ycircumflex.loclGUA;
+	sub Ydieresis by Ydieresis.loclGUA;
+	sub Ygrave by Ygrave.loclGUA;
+	sub Ytilde by Ytilde.loclGUA;
+	# sub Ymacron by Ymacron.loclGUA;
+	sub Ydotbelow by Ydotbelow.loclGUA;
+	sub Yhookabove by Yhookabove.loclGUA;
+	sub y by y.loclGUA;
+	sub yacute by yacute.loclGUA;
+	sub ycircumflex by ycircumflex.loclGUA;
+	sub ydieresis by ydieresis.loclGUA;
+	sub ygrave by ygrave.loclGUA;
+	sub ytilde by ytilde.loclGUA;
+	# sub ymacron by ymacron.loclGUA;
+	sub ydotbelow by ydotbelow.loclGUA;
+	sub yhookabove by yhookabove.loclGUA;
+} y_alternate;
+lookup loclGUA {
+	sub quotesingle by quotesingle.loclGUA;
+} loclGUA;
 language CRT;
 sub i by idotaccent;
-language NLD;
-sub iacute j by jacute;
-sub Iacute J by Jacute;
 language TAT;
 sub i by idotaccent;
 language CAT;
@@ -147,15 +147,14 @@ sub  L' periodcentered' L by Ldot;
 language KAZ;
 sub i by idotaccent;
 language MOL;
-sub Scedilla by Scommaaccent;
-sub scedilla by scommaaccent;
-sub Tcedilla by Tcommaaccent;
-sub tcedilla by tcommaaccent;
+lookup cedilla_alternate {
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} cedilla_alternate;
 language ROM;
-sub Scedilla by Scommaaccent;
-sub scedilla by scommaaccent;
-sub Tcedilla by Tcommaaccent;
-sub tcedilla by tcommaaccent;
+lookup cedilla_alternate;
 language PLK;
 sub Cacute by Cacute.loclPLK;
 sub Nacute by Nacute.loclPLK;
@@ -373,58 +372,29 @@ sub f l by fl;
 } liga;
 
 feature salt {
-sub g by g.ss01;
-sub gbreve by gbreve.ss01;
-sub gcircumflex by gcircumflex.ss01;
-sub gcommaaccent by gcommaaccent.ss01;
-sub gdotaccent by gdotaccent.ss01;
-sub Y by Y.loclGUA;
-sub Yacute by Yacute.loclGUA;
-sub Ycircumflex by Ycircumflex.loclGUA;
-sub Ydieresis by Ydieresis.loclGUA;
-sub Ygrave by Ygrave.loclGUA;
-sub Ytilde by Ytilde.loclGUA;
-sub Ydotbelow by Ydotbelow.loclGUA;
-sub Yhookabove by Yhookabove.loclGUA;
-sub y by y.loclGUA;
-sub yacute by yacute.loclGUA;
-sub ycircumflex by ycircumflex.loclGUA;
-sub ydieresis by ydieresis.loclGUA;
-sub ygrave by ygrave.loclGUA;
-sub ytilde by ytilde.loclGUA;
-sub ydotbelow by ydotbelow.loclGUA;
-sub yhookabove by yhookabove.loclGUA;
+lookup g_alternate {
+	sub g by g.ss01;
+	sub gbreve by gbreve.ss01;
+	sub gcircumflex by gcircumflex.ss01;
+	sub gcommaaccent by gcommaaccent.ss01;
+	sub gdotaccent by gdotaccent.ss01;
+} g_alternate;
+lookup y_alternate;
 
 } salt;
 
 feature ss01 {
-sub g by g.ss01;
-sub gbreve by gbreve.ss01;
-sub gcircumflex by gcircumflex.ss01;
-sub gcommaaccent by gcommaaccent.ss01;
-sub gdotaccent by gdotaccent.ss01;
-sub Y by Y.loclGUA;
-sub Yacute by Yacute.loclGUA;
-sub Ycircumflex by Ycircumflex.loclGUA;
-sub Ydieresis by Ydieresis.loclGUA;
-sub Ygrave by Ygrave.loclGUA;
-sub Ytilde by Ytilde.loclGUA;
-sub Ydotbelow by Ydotbelow.loclGUA;
-sub Yhookabove by Yhookabove.loclGUA;
-sub y by y.loclGUA;
-sub yacute by yacute.loclGUA;
-sub ycircumflex by ycircumflex.loclGUA;
-sub ydieresis by ydieresis.loclGUA;
-sub ygrave by ygrave.loclGUA;
-sub ytilde by ytilde.loclGUA;
-sub ydotbelow by ydotbelow.loclGUA;
-sub yhookabove by yhookabove.loclGUA;
+lookup g_alternate;
+lookup y_alternate;
 
 } ss01;
 
 feature calt {
 sub @Uppercase germandbls' @Uppercase by germandbls.calt;
 sub @Uppercase @Uppercase germandbls' by germandbls.calt;
+sub IJ acutecomb by Iacute_J_acutecomb;
+sub IJ acutecomb.case by Iacute_J_acutecomb;
+sub ij acutecomb by iacute_j_acutecomb;
 } calt;
 
 feature sinf {

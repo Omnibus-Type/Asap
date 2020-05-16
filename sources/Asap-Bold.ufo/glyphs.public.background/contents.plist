@@ -18,8 +18,8 @@
     <string>W_.glif</string>
     <key>Y.loclGUA</key>
     <string>Y_.loclG_U_A_.glif</string>
-    <key>acute.loclPLK</key>
-    <string>acute.loclP_L_K_.glif</string>
+    <key>acutecomb.loclPLK</key>
+    <string>acutecomb.loclP_L_K_.glif</string>
     <key>asciitilde</key>
     <string>asciitilde.glif</string>
     <key>backslash</key>

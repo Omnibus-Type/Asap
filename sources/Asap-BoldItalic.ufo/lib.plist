@@ -4,6 +4,15 @@
   <dict>
     <key>GSCornerRadius</key>
     <integer>30</integer>
+    <key>com.github.googlei18n.ufo2ft.filters</key>
+    <array>
+      <dict>
+        <key>name</key>
+        <string>propagateAnchors</string>
+        <key>pre</key>
+        <true/>
+      </dict>
+    </array>
     <key>com.schriftgestaltung.Glyphs.glyphUserData.ordfeminine</key>
     <dict>
       <key>RMXScaler</key>
@@ -144,8 +153,6 @@
     <integer>129</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>100</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>DE974D70-A5B4-43AB-B940-69E4F08CB641</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>
@@ -1026,6 +1033,8 @@
       <string>uni1E9E</string>
       <key>Hdotbelow</key>
       <string>uni1E24</string>
+      <key>Iacute_J_acutecomb</key>
+      <string>uni00CD004A0301</string>
       <key>Icaron</key>
       <string>uni01CF</string>
       <key>Idblgrave</key>
@@ -1036,8 +1045,6 @@
       <string>uni1EC8</string>
       <key>Iinvertedbreve</key>
       <string>uni020A</string>
-      <key>Jacute</key>
-      <string>uni00A40301</string>
       <key>Kcommaaccent</key>
       <string>uni0136</string>
       <key>LJ</key>
@@ -1344,6 +1351,8 @@
       <string>uni030B.case</string>
       <key>hyphentwo</key>
       <string>uni2010</string>
+      <key>iacute_j_acutecomb</key>
+      <string>uni00ED006A0301</string>
       <key>icaron</key>
       <string>uni01D0</string>
       <key>idblgrave</key>
@@ -1360,8 +1369,6 @@
       <string>uni020B</string>
       <key>increment</key>
       <string>uni2206</string>
-      <key>jacute</key>
-      <string>uni006A0301</string>
       <key>jdotless</key>
       <string>uni0237</string>
       <key>kcommaaccent</key>

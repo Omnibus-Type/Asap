@@ -4,6 +4,6 @@
   <unicode hex="0140"/>
   <outline>
     <component base="l"/>
-    <component base="periodcentered" xOffset="156" yOffset="5"/>
+    <component base="periodcentered.loclCAT" xOffset="156" yOffset="5"/>
   </outline>
 </glyph>

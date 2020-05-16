@@ -4,7 +4,7 @@
   <unicode hex="0140"/>
   <outline>
     <component base="l"/>
-    <component base="periodcentered" xScale="0.9" yScale="0.9" xOffset="154" yOffset="41"/>
+    <component base="periodcentered.loclCAT" xScale="0.9" yScale="0.9" xOffset="154" yOffset="41"/>
   </outline>
   <lib>
     <dict>
@@ -24,7 +24,7 @@
           <key>index</key>
           <integer>1</integer>
           <key>name</key>
-          <string>periodcentered</string>
+          <string>periodcentered.loclCAT</string>
         </dict>
       </array>
     </dict>

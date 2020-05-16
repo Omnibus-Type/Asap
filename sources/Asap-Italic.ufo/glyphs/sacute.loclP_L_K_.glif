@@ -3,6 +3,6 @@
   <advance width="413"/>
   <outline>
     <component base="s"/>
-    <component base="acute.loclPLK" xOffset="173"/>
+    <component base="acutecomb.loclPLK" xOffset="173"/>
   </outline>
 </glyph>

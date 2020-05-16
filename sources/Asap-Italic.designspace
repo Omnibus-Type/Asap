@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
+      <map input="400" output="76"/>
+      <map input="500" output="92"/>
+      <map input="600" output="111"/>
+      <map input="700" output="129"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Asap-Italic.ufo" name="Asap Italic" familyname="Asap" stylename="Italic">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="76"/>
+      </location>
+    </source>
+    <source filename="Asap-BoldItalic.ufo" name="Asap Bold Italic" familyname="Asap" stylename="Bold Italic">
+      <location>
+        <dimension name="Weight" xvalue="129"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Asap Italic" familyname="Asap" stylename="Italic" filename="instance_ufos/Asap-Italic.ufo" stylemapfamilyname="Asap" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="76"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>15</integer>
+                <integer>5</integer>
+                <integer>4</integer>
+                <integer>3</integer>
+                <integer>2</integer>
+                <integer>2</integer>
+                <integer>13</integer>
+                <integer>2</integer>
+                <integer>3</integer>
+              </array>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--default-script=latn --windows-compatibility</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Asap Medium Italic" familyname="Asap" stylename="Medium Italic" filename="instance_ufos/Asap-MediumItalic.ufo" stylemapfamilyname="Asap Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="92"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>15</integer>
+                <integer>6</integer>
+                <integer>4</integer>
+                <integer>3</integer>
+                <integer>2</integer>
+                <integer>2</integer>
+                <integer>13</integer>
+                <integer>2</integer>
+                <integer>3</integer>
+              </array>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--default-script=latn --windows-compatibility</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Asap SemiBold Italic" familyname="Asap" stylename="SemiBold Italic" filename="instance_ufos/Asap-SemiBoldItalic.ufo" stylemapfamilyname="Asap SemiBold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="111"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>15</integer>
+                <integer>7</integer>
+                <integer>4</integer>
+                <integer>3</integer>
+                <integer>2</integer>
+                <integer>2</integer>
+                <integer>13</integer>
+                <integer>2</integer>
+                <integer>3</integer>
+              </array>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--default-script=latn --windows-compatibility</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Asap Bold Italic" familyname="Asap" stylename="Bold Italic" filename="instance_ufos/Asap-BoldItalic.ufo" stylemapfamilyname="Asap" stylemapstylename="bold italic">
+      <location>
+        <dimension name="Weight" xvalue="129"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>15</integer>
+                <integer>8</integer>
+                <integer>4</integer>
+                <integer>3</integer>
+                <integer>2</integer>
+                <integer>2</integer>
+                <integer>13</integer>
+                <integer>2</integer>
+                <integer>3</integer>
+              </array>
+            </array>
+            <array>
+              <string>TTFAutohint options</string>
+              <string>--default-script=latn --windows-compatibility</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>UUID0</key>
+        <dict/>
+      </dict>
+    </dict>
+  </lib>
+</designspace>
