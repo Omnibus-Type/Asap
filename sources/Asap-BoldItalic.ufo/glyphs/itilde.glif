@@ -3,7 +3,38 @@
   <advance width="265"/>
   <unicode hex="0129"/>
   <outline>
+    <contour>
+      <point x="32.2" y="585" type="curve" smooth="yes"/>
+      <point x="45.7" y="585"/>
+      <point x="60.10000000000001" y="612"/>
+      <point x="92.5" y="612" type="curve" smooth="yes"/>
+      <point x="126.70000000000002" y="612"/>
+      <point x="166.3" y="586"/>
+      <point x="208.6" y="586" type="curve" smooth="yes"/>
+      <point x="258.1" y="586"/>
+      <point x="295.90000000000003" y="624"/>
+      <point x="307.6" y="650" type="curve" smooth="yes"/>
+      <point x="311.2" y="658"/>
+      <point x="315.7" y="668"/>
+      <point x="315.7" y="674" type="curve" smooth="yes"/>
+      <point x="315.7" y="688"/>
+      <point x="290.5" y="708"/>
+      <point x="278.8" y="708" type="curve" smooth="yes"/>
+      <point x="263.5" y="708"/>
+      <point x="245.5" y="678"/>
+      <point x="213.1" y="678" type="curve" smooth="yes"/>
+      <point x="180.70000000000002" y="678"/>
+      <point x="142.0" y="704"/>
+      <point x="99.70000000000002" y="704" type="curve" smooth="yes"/>
+      <point x="53.8" y="704"/>
+      <point x="14.200000000000003" y="672"/>
+      <point x="0.7000000000000028" y="635" type="curve" smooth="yes"/>
+      <point x="-2.8999999999999986" y="625"/>
+      <point x="-4.699999999999996" y="617"/>
+      <point x="-4.699999999999996" y="613" type="curve" smooth="yes"/>
+      <point x="-4.699999999999996" y="600"/>
+      <point x="20.5" y="585"/>
+    </contour>
     <component base="idotless"/>
-    <component base="tildecomb" xScale="0.9" xOffset="-38"/>
   </outline>
 </glyph>

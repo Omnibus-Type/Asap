@@ -3241,6 +3241,10 @@ alignToZone = baseline;
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>100</integer>
+    <key>com.typemytype.robofont.segmentType</key>
+    <string>curve</string>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>4627094224</string>
     <key>height</key>
     <integer>106</integer>
     <key>maxMove</key>
@@ -4046,6 +4050,9 @@ alignToZone = baseline;
       <string>baraccentlong</string>
       <string>baraccentmedium</string>
       <string>commaaccentinvert</string>
+      <string>Iacute_J_acutecomb</string>
+      <string>iacute_j_acutecomb</string>
+      <string>acutecomb.loclPLK</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
