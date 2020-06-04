@@ -2,7 +2,24 @@
 <glyph name="commaaccentinvert" format="2">
   <advance width="153"/>
   <outline>
-    <component base="commaaccentcomb" xScale="-1" yScale="-1" xOffset="153" yOffset="524"/>
+    <contour>
+      <point x="108" y="764" type="curve" smooth="yes"/>
+      <point x="73" y="764"/>
+      <point x="0" y="686"/>
+      <point x="0" y="619" type="curve" smooth="yes"/>
+      <point x="0" y="594"/>
+      <point x="15" y="575"/>
+      <point x="50" y="575" type="curve" smooth="yes"/>
+      <point x="69" y="575" type="line" smooth="yes"/>
+      <point x="111" y="575"/>
+      <point x="129" y="592"/>
+      <point x="129" y="619" type="curve" smooth="yes"/>
+      <point x="129" y="699"/>
+      <point x="153" y="724"/>
+      <point x="153" y="742" type="curve" smooth="yes"/>
+      <point x="153" y="758"/>
+      <point x="126" y="764"/>
+    </contour>
   </outline>
   <lib>
     <dict>

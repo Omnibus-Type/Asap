@@ -169,6 +169,10 @@
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>100</integer>
+    <key>com.typemytype.robofont.segmentType</key>
+    <string>curve</string>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>4626977680</string>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
@@ -966,6 +970,9 @@
       <string>baraccentlong</string>
       <string>baraccentmedium</string>
       <string>commaaccentinvert</string>
+      <string>Iacute_J_acutecomb</string>
+      <string>iacute_j_acutecomb</string>
+      <string>acutecomb.loclPLK</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
