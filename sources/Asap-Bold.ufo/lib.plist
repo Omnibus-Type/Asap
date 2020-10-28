@@ -3241,8 +3241,24 @@ alignToZone = baseline;
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>100</integer>
+    <key>com.typemytype.robofont.compileSettings.autohint</key>
+    <true/>
+    <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+    <false/>
+    <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
+    <true/>
+    <key>com.typemytype.robofont.compileSettings.decompose</key>
+    <false/>
+    <key>com.typemytype.robofont.compileSettings.generateFormat</key>
+    <integer>0</integer>
+    <key>com.typemytype.robofont.compileSettings.releaseMode</key>
+    <false/>
+    <key>com.typemytype.robofont.italicSlantOffset</key>
+    <integer>0</integer>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
+    <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
+    <integer>1</integer>
     <key>com.typemytype.robofont.smartSets.uniqueKey</key>
     <string>4627094224</string>
     <key>height</key>
@@ -4671,6 +4687,8 @@ alignToZone = baseline;
       <key>zerosuperior</key>
       <string>uni2070</string>
     </dict>
+    <key>public.skipExportGlyphs</key>
+    <array/>
     <key>width</key>
     <integer>129</integer>
   </dict>

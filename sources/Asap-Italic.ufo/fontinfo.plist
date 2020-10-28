@@ -17,6 +17,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>tJCqeX1OAc</string>
         <key>x</key>
         <real>406.568</real>
         <key>y</key>
@@ -25,6 +27,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>wIFLw8YPZL</string>
         <key>x</key>
         <integer>407</integer>
         <key>y</key>
@@ -33,6 +37,8 @@
       <dict>
         <key>angle</key>
         <integer>84</integer>
+        <key>identifier</key>
+        <string>2e80zP2MLC</string>
         <key>x</key>
         <integer>591</integer>
         <key>y</key>
@@ -41,6 +47,8 @@
       <dict>
         <key>angle</key>
         <integer>84</integer>
+        <key>identifier</key>
+        <string>LiHnUJV6Tl</string>
         <key>x</key>
         <integer>581</integer>
         <key>y</key>
@@ -49,6 +57,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>TKgILZ818n</string>
         <key>x</key>
         <integer>158</integer>
         <key>y</key>
@@ -57,6 +67,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>j41XnLibQk</string>
         <key>x</key>
         <integer>175</integer>
         <key>y</key>
@@ -90,7 +102,7 @@
       <integer>7</integer>
     </array>
     <key>openTypeOS2StrikeoutPosition</key>
-    <integer>0</integer>
+    <integer>314</integer>
     <key>openTypeOS2StrikeoutSize</key>
     <integer>72</integer>
     <key>openTypeOS2Type</key>
@@ -103,6 +115,10 @@
     <integer>0</integer>
     <key>openTypeOS2VendorID</key>
     <string>OMNI</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
     <integer>1055</integer>
     <key>openTypeOS2WinDescent</key>
