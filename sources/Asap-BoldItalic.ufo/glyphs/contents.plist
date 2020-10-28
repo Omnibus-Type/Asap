@@ -200,6 +200,8 @@
     <string>I_tilde.glif</string>
     <key>J</key>
     <string>J_.glif</string>
+    <key>Jacute</key>
+    <string>J_acute.glif</string>
     <key>Jcircumflex</key>
     <string>J_circumflex.glif</string>
     <key>K</key>
@@ -988,6 +990,8 @@
     <string>itilde.glif</string>
     <key>j</key>
     <string>j.glif</string>
+    <key>jacute</key>
+    <string>jacute.glif</string>
     <key>jcircumflex</key>
     <string>jcircumflex.glif</string>
     <key>jdotless</key>
