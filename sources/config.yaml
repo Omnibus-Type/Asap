@@ -1,0 +1,8 @@
+    sources:
+      - Asap.glyphs
+      - Asap-Italic.glyphs
+    axisOrder:
+      - wght
+    outputDir: "../fonts"
+    familyName: Asap
+    
