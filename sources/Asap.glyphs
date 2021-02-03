@@ -1,5 +1,5 @@
 {
-.appVersion = "1352";
+.appVersion = "1354";
 classes = (
 {
 automatic = 1;
@@ -7,7 +7,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2021 The Asap Project Authors (https://github.com/Omnibus-Type/Asap)";
+copyright = "Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap)";
 customParameters = (
 {
 name = fsType;
@@ -16,11 +16,11 @@ value = (
 },
 {
 name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = vendorID;
@@ -135417,7 +135417,7 @@ colon = 30;
 };
 };
 manufacturer = "Omnibus-Type";
-manufacturerURL = "http://www.omnibus-type.com";
+manufacturerURL = "https://www.omnibus-type.com";
 unitsPerEm = 1000;
 userData = {
 LWPluginVersion = "1429";
@@ -137763,5 +137763,5 @@ width = 77;
 UFOFormat = 3;
 };
 versionMajor = 3;
-versionMinor = 0;
+versionMinor = 1;
 }
