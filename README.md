@@ -5,7 +5,7 @@
 
 Asap is a contemporary sans-serif family with subtle rounded corners. Designed by Pablo Cosgaya, Asap ("as soon as possible") there are 8 styles: Regular, Italic, Medium, Medium Italic, Semibold, Semibold Italic, Bold, and Bold Italic. This family, specially developed for screen and desktop use, offers a standarised character width on all styles, which means lines of text remain the same length. This useful feature allows users to change type styles on-the-go without reflowing a text body. Asap is based on Ancha (designed by Pablo Cosgaya & Héctor Gatti), and has been developed with the collaboration of Andrés Torresi, Nicolás Silva and Yorlmar Campos.
 
-![Sample of Asap Family.](sources/Asap.gif "Asap Family")
+![Sample of Asap Family.](Asap.gif "Asap Family")
 
 #### Asap Family contains:
 * Regular / Italic
