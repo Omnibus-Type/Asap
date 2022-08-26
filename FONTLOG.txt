@@ -13,6 +13,10 @@ at omnibus.type@gmail.com
 
 ChangeLog
 
+26 Aug 2022 (v.3.0) Omnibus-Type 
+- Big Update to Variable Font
+- Axes weight (100..900) and width (75..125)
+
 12 Aug 2018 (v.2.001) Omnibus-Type
 - Expanded character map to support GF Latin Plus
 – Enhancements on drawing
@@ -49,9 +53,9 @@ ChangeLog
 
 1 Oct 2013 (v.1.5) Omnibus-Type
 - Expanded character map to support Unicode language ranges:
-	Basic Latin 				U+0020-U+007E
-	Latin-1 Supplement 			U+00A0-U+00FF
-	Latin Extended-A 			U+0100-U+017F
+	Basic Latin 			U+0020-U+007E
+	Latin-1 Supplement 		U+00A0-U+00FF
+	Latin Extended-A 		U+0100-U+017F
 	Latin Extended Additional*	U+1E00-U+1EFF *(111/256)
 - Expanded character map to support MS Codepages:
 	1250 Latin-2 (Easter Europe)
