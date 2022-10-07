@@ -1,8 +1,98 @@
-    sources:
-      - Asap.glyphs
-      - Asap-Italic.glyphs
-    axisOrder:
-      - wght
-    outputDir: "../fonts"
-    familyName: Asap
+sources:
+  - Asap.glyphs
+  - Asap-Italic.glyphs
+axisOrder:
+  - wdth
+  - wght
+familyName: Asap
+#buildStatic: false
+stat:
+  Asap[wdth,wght].ttf:
+  - name: Width
+    tag: wdth
+    values:
+    - name: Condensed
+      value: 75
+    - name: SemiCondensed
+      value: 87.5
+    - name: Normal
+      value: 100
+      flags: 2
+    - name: SemiExpanded
+      value: 112.5
+    - name: Expanded
+      value: 125
+  - name: Weight
+    tag: wght
+    values:
+    - name: Thin
+      value: 100
+    - name: ExtraLight
+      value: 200
+    - name: Light
+      value: 300
+    - name: Regular
+      value: 400
+      linkedValue: 700
+      flags: 2
+    - name: Medium
+      value: 500
+    - name: SemiBold
+      value: 600
+    - name: Bold
+      value: 700
+    - name: ExtraBold
+      value: 800
+    - name: Black
+      value: 900
+  - name: Italic
+    tag: ital
+    values:
+    - name: Roman
+      value: 0
+      linkedValue: 1
+      flags: 2
+  Asap-Italic[wdth,wght].ttf:
+  - name: Width
+    tag: wdth
+    values:
+    - name: Condensed
+      value: 75
+    - name: SemiCondensed
+      value: 87.5
+    - name: Normal
+      value: 100
+      flags: 2
+    - name: SemiExpanded
+      value: 112.5
+    - name: Expanded
+      value: 125
+  - name: Weight
+    tag: wght
+    values:
+    - name: Thin
+      value: 100
+    - name: ExtraLight
+      value: 200
+    - name: Light
+      value: 300
+    - name: Regular
+      value: 400
+      linkedValue: 700
+      flags: 2
+    - name: Medium
+      value: 500
+    - name: SemiBold
+      value: 600
+    - name: Bold
+      value: 700
+    - name: ExtraBold
+      value: 800
+    - name: Black
+      value: 900
+  - name: Italic
+    tag: ital
+    values:
+    - name: Italic
+      value: 1
     
