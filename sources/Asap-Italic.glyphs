@@ -1,9 +1,6 @@
 {
 .appVersion = "3133";
 .formatVersion = 3;
-DisplayStrings = (
-"/g.ss01"
-);
 axes = (
 {
 name = Weight;
@@ -86,6 +83,10 @@ pos = "-212";
 size = 8;
 }
 );
+},
+{
+name = "Variable Font Origin";
+value = "A5088678-70AC-4F64-BB81-5A382D319F76";
 }
 );
 date = "2022-07-22 14:09:28 +0000";
