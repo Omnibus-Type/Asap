@@ -1,5 +1,5 @@
 {
-.appVersion = "3134";
+.appVersion = "3133";
 .formatVersion = 3;
 DisplayStrings = (
 "/g.ss01"
@@ -12,10 +12,6 @@ tag = wght;
 {
 name = Width;
 tag = wdth;
-},
-{
-name = Italic;
-tag = ital;
 }
 );
 classes = (
@@ -632,17 +628,16 @@ fontMaster = (
 {
 axesValues = (
 40,
-75,
-1
+75
 );
 customParameters = (
 {
 name = typoAscender;
-value = 951;
+value = 934;
 },
 {
 name = typoDescender;
-value = -249;
+value = -212;
 },
 {
 name = typoLineGap;
@@ -650,19 +645,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1315;
+value = 1055;
 },
 {
 name = winDescent;
-value = 240;
+value = 264;
 },
 {
 name = hheaAscender;
-value = 951;
+value = 934;
 },
 {
 name = hheaDescender;
-value = -249;
+value = -212;
 },
 {
 name = hheaLineGap;
@@ -718,7 +713,7 @@ pos = -212;
 pos = 6;
 }
 );
-name = "Thin Condensed Italic";
+name = "Condensed Thin Italic";
 stemValues = (
 36,
 40
@@ -733,17 +728,16 @@ GSOffsetVertical = 10;
 {
 axesValues = (
 77,
-75,
-1
+75
 );
 customParameters = (
 {
 name = typoAscender;
-value = 951;
+value = 934;
 },
 {
 name = typoDescender;
-value = -249;
+value = -212;
 },
 {
 name = typoLineGap;
@@ -751,19 +745,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1315;
+value = 1055;
 },
 {
 name = winDescent;
-value = 240;
+value = 264;
 },
 {
 name = hheaAscender;
-value = 951;
+value = 934;
 },
 {
 name = hheaDescender;
-value = -249;
+value = -212;
 },
 {
 name = hheaLineGap;
@@ -834,17 +828,16 @@ GSOffsetVertical = 10;
 {
 axesValues = (
 129,
-75,
-1
+75
 );
 customParameters = (
 {
 name = typoAscender;
-value = 951;
+value = 934;
 },
 {
 name = typoDescender;
-value = -249;
+value = -212;
 },
 {
 name = typoLineGap;
@@ -852,19 +845,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1315;
+value = 1055;
 },
 {
 name = winDescent;
-value = 240;
+value = 264;
 },
 {
 name = hheaAscender;
-value = 951;
+value = 934;
 },
 {
 name = hheaDescender;
-value = -249;
+value = -212;
 },
 {
 name = hheaLineGap;
@@ -920,7 +913,7 @@ pos = -212;
 pos = 6;
 }
 );
-name = "Bold Condensed Italic";
+name = "Condensed Bold Italic";
 stemValues = (
 131,
 155
@@ -932,17 +925,16 @@ GSCornerRadius = 30;
 {
 axesValues = (
 166,
-75,
-1
+75
 );
 customParameters = (
 {
 name = typoAscender;
-value = 951;
+value = 934;
 },
 {
 name = typoDescender;
-value = -249;
+value = -212;
 },
 {
 name = typoLineGap;
@@ -950,19 +942,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1315;
+value = 1055;
 },
 {
 name = winDescent;
-value = 240;
+value = 264;
 },
 {
 name = hheaAscender;
-value = 951;
+value = 934;
 },
 {
 name = hheaDescender;
-value = -249;
+value = -212;
 },
 {
 name = hheaLineGap;
@@ -1017,7 +1009,7 @@ pos = -212;
 pos = 6;
 }
 );
-name = "Black Condensed Italic";
+name = "Condensed Black Italic";
 stemValues = (
 171,
 185
@@ -1029,17 +1021,16 @@ GSCornerRadius = 30;
 {
 axesValues = (
 40,
-100,
-1
+100
 );
 customParameters = (
 {
 name = typoAscender;
-value = 951;
+value = 934;
 },
 {
 name = typoDescender;
-value = -249;
+value = -212;
 },
 {
 name = typoLineGap;
@@ -1047,19 +1038,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1315;
+value = 1055;
 },
 {
 name = winDescent;
-value = 240;
+value = 264;
 },
 {
 name = hheaAscender;
-value = 951;
+value = 934;
 },
 {
 name = hheaDescender;
-value = -249;
+value = -212;
 },
 {
 name = hheaLineGap;
@@ -1130,17 +1121,16 @@ GSOffsetVertical = 10;
 {
 axesValues = (
 77,
-100,
-1
+100
 );
 customParameters = (
 {
 name = typoAscender;
-value = 951;
+value = 934;
 },
 {
 name = typoDescender;
-value = -249;
+value = -212;
 },
 {
 name = typoLineGap;
@@ -1148,19 +1138,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1315;
+value = 1055;
 },
 {
 name = winDescent;
-value = 240;
+value = 264;
 },
 {
 name = hheaAscender;
-value = 951;
+value = 934;
 },
 {
 name = hheaDescender;
-value = -249;
+value = -212;
 },
 {
 name = hheaLineGap;
@@ -1231,17 +1221,16 @@ GSOffsetVertical = 10;
 {
 axesValues = (
 129,
-100,
-1
+100
 );
 customParameters = (
 {
 name = typoAscender;
-value = 951;
+value = 934;
 },
 {
 name = typoDescender;
-value = -249;
+value = -212;
 },
 {
 name = typoLineGap;
@@ -1249,19 +1238,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1315;
+value = 1055;
 },
 {
 name = winDescent;
-value = 240;
+value = 264;
 },
 {
 name = hheaAscender;
-value = 951;
+value = 934;
 },
 {
 name = hheaDescender;
-value = -249;
+value = -212;
 },
 {
 name = hheaLineGap;
@@ -1329,17 +1318,16 @@ GSCornerRadius = 180;
 {
 axesValues = (
 166,
-100,
-1
+100
 );
 customParameters = (
 {
 name = typoAscender;
-value = 951;
+value = 934;
 },
 {
 name = typoDescender;
-value = -249;
+value = -212;
 },
 {
 name = typoLineGap;
@@ -1347,19 +1335,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1315;
+value = 1055;
 },
 {
 name = winDescent;
-value = 240;
+value = 264;
 },
 {
 name = hheaAscender;
-value = 951;
+value = 934;
 },
 {
 name = hheaDescender;
-value = -249;
+value = -212;
 },
 {
 name = hheaLineGap;
@@ -1427,17 +1415,16 @@ GSCornerRadius = 30;
 {
 axesValues = (
 40,
-125,
-1
+125
 );
 customParameters = (
 {
 name = typoAscender;
-value = 951;
+value = 934;
 },
 {
 name = typoDescender;
-value = -249;
+value = -212;
 },
 {
 name = typoLineGap;
@@ -1445,19 +1432,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1315;
+value = 1055;
 },
 {
 name = winDescent;
-value = 240;
+value = 264;
 },
 {
 name = hheaAscender;
-value = 951;
+value = 934;
 },
 {
 name = hheaDescender;
-value = -249;
+value = -212;
 },
 {
 name = hheaLineGap;
@@ -1518,7 +1505,7 @@ pos = -212;
 pos = 6;
 }
 );
-name = "Thin Expanded Italic";
+name = "Expanded Thin Italic";
 stemValues = (
 36,
 40
@@ -1533,17 +1520,16 @@ GSOffsetVertical = 10;
 {
 axesValues = (
 77,
-125,
-1
+125
 );
 customParameters = (
 {
 name = typoAscender;
-value = 951;
+value = 934;
 },
 {
 name = typoDescender;
-value = -249;
+value = -212;
 },
 {
 name = typoLineGap;
@@ -1551,19 +1537,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1315;
+value = 1055;
 },
 {
 name = winDescent;
-value = 240;
+value = 264;
 },
 {
 name = hheaAscender;
-value = 951;
+value = 934;
 },
 {
 name = hheaDescender;
-value = -249;
+value = -212;
 },
 {
 name = hheaLineGap;
@@ -1634,17 +1620,16 @@ GSOffsetVertical = 10;
 {
 axesValues = (
 129,
-125,
-1
+125
 );
 customParameters = (
 {
 name = typoAscender;
-value = 951;
+value = 934;
 },
 {
 name = typoDescender;
-value = -249;
+value = -212;
 },
 {
 name = typoLineGap;
@@ -1652,19 +1637,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1315;
+value = 1055;
 },
 {
 name = winDescent;
-value = 240;
+value = 264;
 },
 {
 name = hheaAscender;
-value = 951;
+value = 934;
 },
 {
 name = hheaDescender;
-value = -249;
+value = -212;
 },
 {
 name = hheaLineGap;
@@ -1720,7 +1705,7 @@ pos = -212;
 pos = 6;
 }
 );
-name = "Bold Expanded Italic";
+name = "Expanded Bold Italic";
 stemValues = (
 131,
 155
@@ -1732,17 +1717,16 @@ GSCornerRadius = 30;
 {
 axesValues = (
 166,
-125,
-1
+125
 );
 customParameters = (
 {
 name = typoAscender;
-value = 951;
+value = 934;
 },
 {
 name = typoDescender;
-value = -249;
+value = -212;
 },
 {
 name = typoLineGap;
@@ -1750,19 +1734,19 @@ value = 0;
 },
 {
 name = winAscent;
-value = 1315;
+value = 1055;
 },
 {
 name = winDescent;
-value = 240;
+value = 264;
 },
 {
 name = hheaAscender;
-value = 951;
+value = 934;
 },
 {
 name = hheaDescender;
-value = -249;
+value = -212;
 },
 {
 name = hheaLineGap;
@@ -1822,7 +1806,7 @@ pos = -212;
 pos = 6;
 }
 );
-name = "Black Expanded Italic";
+name = "Expanded Black Italic";
 stemValues = (
 171,
 185
@@ -272319,8 +272303,6 @@ axisRules = (
 min = 111;
 },
 {
-},
-{
 }
 );
 };
@@ -272369,8 +272351,6 @@ attr = {
 axisRules = (
 {
 min = 111;
-},
-{
 },
 {
 }
@@ -272448,8 +272428,6 @@ axisRules = (
 min = 111;
 },
 {
-},
-{
 }
 );
 };
@@ -272523,8 +272501,6 @@ attr = {
 axisRules = (
 {
 min = 111;
-},
-{
 },
 {
 }
@@ -272602,8 +272578,6 @@ axisRules = (
 min = 111;
 },
 {
-},
-{
 }
 );
 };
@@ -272652,8 +272626,6 @@ attr = {
 axisRules = (
 {
 min = 111;
-},
-{
 },
 {
 }
@@ -272805,8 +272777,6 @@ axisRules = (
 min = 111;
 },
 {
-},
-{
 }
 );
 };
@@ -272880,8 +272850,6 @@ attr = {
 axisRules = (
 {
 min = 111;
-},
-{
 },
 {
 }
@@ -272959,8 +272927,6 @@ axisRules = (
 min = 111;
 },
 {
-},
-{
 }
 );
 };
@@ -273011,8 +272977,6 @@ axisRules = (
 min = 111;
 },
 {
-},
-{
 }
 );
 };
@@ -273061,8 +273025,6 @@ attr = {
 axisRules = (
 {
 min = 111;
-},
-{
 },
 {
 }
@@ -273138,8 +273100,6 @@ attr = {
 axisRules = (
 {
 min = 111;
-},
-{
 },
 {
 }
@@ -277677,8 +277637,6 @@ axisRules = (
 min = 111;
 },
 {
-},
-{
 }
 );
 };
@@ -277727,8 +277685,6 @@ attr = {
 axisRules = (
 {
 min = 111;
-},
-{
 },
 {
 }
@@ -277806,8 +277762,6 @@ axisRules = (
 min = 111;
 },
 {
-},
-{
 }
 );
 };
@@ -277881,8 +277835,6 @@ attr = {
 axisRules = (
 {
 min = 111;
-},
-{
 },
 {
 }
@@ -277960,8 +277912,6 @@ axisRules = (
 min = 111;
 },
 {
-},
-{
 }
 );
 };
@@ -278010,8 +277960,6 @@ attr = {
 axisRules = (
 {
 min = 111;
-},
-{
 },
 {
 }
@@ -278135,8 +278083,6 @@ axisRules = (
 min = 111;
 },
 {
-},
-{
 }
 );
 };
@@ -278210,8 +278156,6 @@ attr = {
 axisRules = (
 {
 min = 111;
-},
-{
 },
 {
 }
@@ -278289,8 +278233,6 @@ axisRules = (
 min = 111;
 },
 {
-},
-{
 }
 );
 };
@@ -278341,8 +278283,6 @@ axisRules = (
 min = 111;
 },
 {
-},
-{
 }
 );
 };
@@ -278391,8 +278331,6 @@ attr = {
 axisRules = (
 {
 min = 111;
-},
-{
 },
 {
 }
@@ -278468,8 +278406,6 @@ attr = {
 axisRules = (
 {
 min = 111;
-},
-{
 },
 {
 }
@@ -354040,8 +353976,7 @@ instances = (
 {
 axesValues = (
 40,
-75,
-0
+75
 );
 customParameters = (
 {
@@ -354054,6 +353989,7 @@ eot
 );
 }
 );
+exports = 0;
 instanceInterpolations = {
 "5C838766-37AC-4B89-873F-9B34A34CB1D1" = 1;
 };
@@ -354063,15 +353999,16 @@ type = variable;
 {
 axesValues = (
 40,
-75,
-1
+75
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Thin";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -354099,15 +354036,16 @@ widthClass = 3;
 {
 axesValues = (
 49,
-75,
-1
+75
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap ExtraLight";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -354136,15 +354074,16 @@ widthClass = 3;
 {
 axesValues = (
 61,
-75,
-1
+75
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Light";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -354173,8 +354112,7 @@ widthClass = 3;
 {
 axesValues = (
 77,
-75,
-1
+75
 );
 instanceInterpolations = {
 "E8E506BC-BBFD-46D4-BF6A-32B0AB7FBD03" = 1;
@@ -354198,15 +354136,16 @@ widthClass = 3;
 {
 axesValues = (
 92,
-75,
-1
+75
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Medium";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -354235,15 +354174,16 @@ widthClass = 3;
 {
 axesValues = (
 111,
-75,
-1
+75
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Semi";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = "Bold Italic";
 }
@@ -354272,15 +354212,13 @@ widthClass = 3;
 {
 axesValues = (
 129,
-75,
-1
+75
 );
 instanceInterpolations = {
 "373C5ECE-2403-4F88-B498-8D3B1E7E9A2C" = 1;
 };
 isBold = 1;
 isItalic = 1;
-linkStyle = "Condensed Regular";
 name = "Bold Italic";
 properties = (
 {
@@ -354299,15 +354237,16 @@ widthClass = 3;
 {
 axesValues = (
 149,
-75,
-1
+75
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Extra";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = "Bold Italic";
 }
@@ -354336,15 +354275,16 @@ widthClass = 3;
 {
 axesValues = (
 166,
-75,
-1
+75
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Black";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -354372,15 +354312,16 @@ widthClass = 3;
 {
 axesValues = (
 40,
-87.5,
-1
+87.5
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Thin";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -354409,15 +354350,16 @@ widthClass = 4;
 {
 axesValues = (
 49,
-87.5,
-1
+87.5
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap ExtraLight";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -354448,15 +354390,16 @@ widthClass = 4;
 {
 axesValues = (
 61,
-87.5,
-1
+87.5
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Light";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -354487,8 +354430,7 @@ widthClass = 4;
 {
 axesValues = (
 77,
-87.5,
-1
+87.5
 );
 instanceInterpolations = {
 "A5088678-70AC-4F64-BB81-5A382D319F76" = 0.5;
@@ -354513,15 +354455,16 @@ widthClass = 4;
 {
 axesValues = (
 92,
-87.5,
-1
+87.5
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Medium";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -354552,15 +354495,16 @@ widthClass = 4;
 {
 axesValues = (
 111,
-87.5,
-1
+87.5
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Semi";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = "Bold Italic";
 }
@@ -354591,8 +354535,7 @@ widthClass = 4;
 {
 axesValues = (
 129,
-87.5,
-1
+87.5
 );
 instanceInterpolations = {
 "373C5ECE-2403-4F88-B498-8D3B1E7E9A2C" = 0.5;
@@ -354600,7 +354543,6 @@ instanceInterpolations = {
 };
 isBold = 1;
 isItalic = 1;
-linkStyle = "Semi Condensed Regular";
 name = "Bold Italic";
 properties = (
 {
@@ -354619,15 +354561,16 @@ widthClass = 4;
 {
 axesValues = (
 149,
-87.5,
-1
+87.5
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Extra";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = "Bold Italic";
 }
@@ -354658,15 +354601,16 @@ widthClass = 4;
 {
 axesValues = (
 166,
-87.5,
-1
+87.5
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Black";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -354695,15 +354639,16 @@ widthClass = 4;
 {
 axesValues = (
 40,
-100,
-1
+100
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Thin";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -354730,15 +354675,16 @@ weightClass = 100;
 {
 axesValues = (
 49,
-100,
-1
+100
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap ExtraLight";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -354766,15 +354712,16 @@ weightClass = 200;
 {
 axesValues = (
 61,
-100,
-1
+100
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Light";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -354802,8 +354749,7 @@ weightClass = 300;
 {
 axesValues = (
 77,
-100,
-1
+100
 );
 instanceInterpolations = {
 "A5088678-70AC-4F64-BB81-5A382D319F76" = 1;
@@ -354826,15 +354772,16 @@ value = Asap;
 {
 axesValues = (
 92,
-100,
-1
+100
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Medium";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -354862,15 +354809,16 @@ weightClass = 500;
 {
 axesValues = (
 111,
-100,
-1
+100
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Semi";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = "Bold Italic";
 }
@@ -354898,15 +354846,13 @@ weightClass = 600;
 {
 axesValues = (
 129,
-100,
-1
+100
 );
 instanceInterpolations = {
 "DE974D70-A5B4-43AB-B940-69E4F08CB641" = 1;
 };
 isBold = 1;
 isItalic = 1;
-linkStyle = Regular;
 name = "Bold Italic";
 properties = (
 {
@@ -354924,15 +354870,16 @@ weightClass = 700;
 {
 axesValues = (
 149,
-100,
-1
+100
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Extra";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = "Bold Italic";
 }
@@ -354960,15 +354907,16 @@ weightClass = 800;
 {
 axesValues = (
 166,
-100,
-1
+100
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Black";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -354995,15 +354943,16 @@ weightClass = 900;
 {
 axesValues = (
 40,
-112.5,
-1
+112.5
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Thin";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -355032,15 +354981,16 @@ widthClass = 6;
 {
 axesValues = (
 49,
-112.5,
-1
+112.5
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap ExtraLight";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -355071,15 +355021,16 @@ widthClass = 6;
 {
 axesValues = (
 61,
-112.5,
-1
+112.5
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Light";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -355110,8 +355061,7 @@ widthClass = 6;
 {
 axesValues = (
 77,
-112.5,
-1
+112.5
 );
 instanceInterpolations = {
 "1705A2C8-2264-4646-93CE-9C283A9B02F5" = 0.5;
@@ -355136,15 +355086,16 @@ widthClass = 6;
 {
 axesValues = (
 92,
-112.5,
-1
+112.5
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Medium";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -355175,15 +355126,16 @@ widthClass = 6;
 {
 axesValues = (
 111,
-112.5,
-1
+112.5
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Semi";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = "Bold Italic";
 }
@@ -355214,8 +355166,7 @@ widthClass = 6;
 {
 axesValues = (
 129,
-112.5,
-1
+112.5
 );
 instanceInterpolations = {
 "244A12B9-0B84-4E1D-A709-7854926D583C" = 0.5;
@@ -355223,7 +355174,6 @@ instanceInterpolations = {
 };
 isBold = 1;
 isItalic = 1;
-linkStyle = "Semi Expanded Regular";
 name = "Bold Italic";
 properties = (
 {
@@ -355242,15 +355192,16 @@ widthClass = 6;
 {
 axesValues = (
 149,
-112.5,
-1
+112.5
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Extra";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = "Bold Italic";
 }
@@ -355281,15 +355232,16 @@ widthClass = 6;
 {
 axesValues = (
 166,
-112.5,
-1
+112.5
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Black";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -355318,15 +355270,16 @@ widthClass = 6;
 {
 axesValues = (
 40,
-125,
-1
+125
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Thin";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -355354,15 +355307,16 @@ widthClass = 7;
 {
 axesValues = (
 49,
-125,
-1
+125
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap ExtraLight";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -355391,15 +355345,16 @@ widthClass = 7;
 {
 axesValues = (
 61,
-125,
-1
+125
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Light";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -355428,8 +355383,7 @@ widthClass = 7;
 {
 axesValues = (
 77,
-125,
-1
+125
 );
 instanceInterpolations = {
 "1705A2C8-2264-4646-93CE-9C283A9B02F5" = 1;
@@ -355453,15 +355407,16 @@ widthClass = 7;
 {
 axesValues = (
 92,
-125,
-1
+125
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Medium";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -355490,15 +355445,16 @@ widthClass = 7;
 {
 axesValues = (
 111,
-125,
-1
+125
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Semi";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = "Bold Italic";
 }
@@ -355527,15 +355483,13 @@ widthClass = 7;
 {
 axesValues = (
 129,
-125,
-1
+125
 );
 instanceInterpolations = {
 "244A12B9-0B84-4E1D-A709-7854926D583C" = 1;
 };
 isBold = 1;
 isItalic = 1;
-linkStyle = "Expanded Regular";
 name = "Bold Italic";
 properties = (
 {
@@ -355554,15 +355508,16 @@ widthClass = 7;
 {
 axesValues = (
 149,
-125,
-1
+125
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Extra";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = "Bold Italic";
 }
@@ -355591,15 +355546,16 @@ widthClass = 7;
 {
 axesValues = (
 166,
-125,
-1
+125
 );
 customParameters = (
 {
+disabled = 1;
 name = WWSFamilyName;
 value = "Asap Black";
 },
 {
+disabled = 1;
 name = WWSSubfamilyName;
 value = Italic;
 }
@@ -358744,7 +358700,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap) with Reserved Font Name \"Asap\".";
+value = "Copyright 2018 The Asap Project Authors (https://github.com/Omnibus-Type/Asap)";
 }
 );
 },
