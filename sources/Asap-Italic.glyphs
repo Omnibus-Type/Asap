@@ -1,5 +1,5 @@
 {
-.appVersion = "3133";
+.appVersion = "3414";
 .formatVersion = 3;
 axes = (
 {
@@ -37,6 +37,7 @@ name = "Use Typo Metrics";
 value = 1;
 },
 {
+disabled = 1;
 name = "Axis Mappings";
 value = {
 wdth = {
@@ -76,10 +77,10 @@ size = 8;
 },
 {
 pos = 0;
-size = "-9";
+size = -9;
 },
 {
-pos = "-212";
+pos = -212;
 size = 8;
 }
 );
@@ -673,18 +674,27 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 84;
+orientation = center;
 pos = (0,261);
 }
 );
@@ -773,18 +783,27 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 84;
+orientation = center;
 pos = (0,261);
 }
 );
@@ -873,18 +892,27 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 84;
+orientation = center;
 pos = (0,261);
 }
 );
@@ -970,12 +998,21 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 guides = (
@@ -1066,18 +1103,27 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 84;
+orientation = center;
 pos = (0,261);
 }
 );
@@ -1166,18 +1212,27 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 84;
+orientation = center;
 pos = (0,261);
 }
 );
@@ -1266,18 +1321,27 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 84;
+orientation = center;
 pos = (0,261);
 }
 );
@@ -1363,18 +1427,27 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 84;
+orientation = center;
 pos = (0,261);
 }
 );
@@ -1460,23 +1533,32 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Width;
+Location = 125;
+}
+);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 84;
+orientation = center;
 pos = (0,261);
 },
 {
-orientation = center;
 angle = 84;
+orientation = center;
 pos = (0,261);
 }
 );
@@ -1565,18 +1647,27 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 125;
+}
+);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 84;
+orientation = center;
 pos = (0,261);
 }
 );
@@ -1665,18 +1756,27 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Width;
+Location = 125;
+}
+);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 84;
+orientation = center;
 pos = (0,261);
 }
 );
@@ -1762,18 +1862,27 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 125;
+}
+);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 84;
+orientation = center;
 pos = (2,261);
 },
 {
@@ -321158,7 +321267,7 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(320,-18,l),
+(318,-14,l),
 (88,370,l),
 (88,324,l),
 (401,706,l),
@@ -335751,7 +335860,7 @@ pos = (313,1596);
 ref = circumflexcomb.case;
 }
 );
-width = 201;
+width = 200;
 },
 {
 anchors = (
@@ -335768,7 +335877,7 @@ layerId = "DE974D70-A5B4-43AB-B940-69E4F08CB641";
 shapes = (
 {
 angle = 180;
-pos = (406,1594);
+pos = (407,1594);
 ref = circumflexcomb.case;
 }
 );
@@ -335858,11 +335967,11 @@ layerId = "373C5ECE-2403-4F88-B498-8D3B1E7E9A2C";
 shapes = (
 {
 angle = 180;
-pos = (379,1594);
+pos = (380,1594);
 ref = circumflexcomb.case;
 }
 );
-width = 266;
+width = 267;
 },
 {
 anchors = (
@@ -335879,11 +335988,11 @@ layerId = "5C838766-37AC-4B89-873F-9B34A34CB1D1";
 shapes = (
 {
 angle = 180;
-pos = (302,1596);
+pos = (303,1596);
 ref = circumflexcomb.case;
 }
 );
-width = 189;
+width = 190;
 },
 {
 anchors = (
@@ -335900,7 +336009,7 @@ layerId = "860D29E9-0F6A-4884-8136-6A4D2E147068";
 shapes = (
 {
 angle = 180;
-pos = (380,1594);
+pos = (381,1594);
 ref = circumflexcomb.case;
 }
 );
@@ -335942,7 +336051,7 @@ layerId = "BE370B38-46A8-4C3C-A423-FCC64844635A";
 shapes = (
 {
 angle = 180;
-pos = (407,1594);
+pos = (408,1594);
 ref = circumflexcomb.case;
 }
 );
@@ -335963,7 +336072,7 @@ layerId = "80A77C3D-84AB-436C-AF34-ED3995828446";
 shapes = (
 {
 angle = 180;
-pos = (447,1594);
+pos = (448,1594);
 ref = circumflexcomb.case;
 }
 );
@@ -335984,7 +336093,7 @@ layerId = "244A12B9-0B84-4E1D-A709-7854926D583C";
 shapes = (
 {
 angle = 180;
-pos = (446,1594);
+pos = (447,1594);
 ref = circumflexcomb.case;
 }
 );
@@ -336026,11 +336135,11 @@ layerId = "C4927F2F-529D-4EE0-9C65-9509CBF2D10E";
 shapes = (
 {
 angle = 180;
-pos = (332,1596);
+pos = (333,1596);
 ref = circumflexcomb.case;
 }
 );
-width = 219;
+width = 220;
 }
 );
 metricLeft = "=0";
@@ -344512,7 +344621,7 @@ pos = (-80,-762);
 ref = brevecomb.case;
 }
 );
-width = 264;
+width = 263;
 },
 {
 anchors = (
@@ -344572,7 +344681,7 @@ pos = (-83,-787);
 ref = brevecomb.case;
 }
 );
-width = 270;
+width = 271;
 },
 {
 anchors = (
@@ -344612,7 +344721,7 @@ pos = (-83,-787);
 ref = brevecomb.case;
 }
 );
-width = 290;
+width = 291;
 },
 {
 anchors = (
@@ -344652,7 +344761,7 @@ pos = (-82,-777);
 ref = brevecomb.case;
 }
 );
-width = 310;
+width = 311;
 },
 {
 anchors = (
@@ -344672,7 +344781,7 @@ pos = (-82,-777);
 ref = brevecomb.case;
 }
 );
-width = 330;
+width = 331;
 },
 {
 anchors = (
@@ -344692,7 +344801,7 @@ pos = (-82,-777);
 ref = brevecomb.case;
 }
 );
-width = 310;
+width = 311;
 },
 {
 anchors = (
@@ -354382,12 +354491,9 @@ unicode = 61440;
 );
 instances = (
 {
-axesValues = (
-40,
-75
-);
 customParameters = (
 {
+disabled = 1;
 name = "Webfont Formats";
 value = (
 plain,
@@ -354395,12 +354501,37 @@ woff,
 woff2,
 eot
 );
+},
+{
+disabled = 1;
+name = "Axis Mappings";
+value = {
+wdth = {
+75 = 75;
+87.5 = 87.5;
+100 = 100;
+112.5 = 112.5;
+125 = 125;
+};
+wght = {
+100 = 40;
+200 = 49;
+300 = 61;
+400 = 77;
+500 = 92;
+600 = 111;
+700 = 129;
+800 = 149;
+900 = 166;
+};
+};
+},
+{
+disabled = 1;
+name = fileName;
+value = "Asap-Italic";
 }
 );
-exports = 0;
-instanceInterpolations = {
-"5C838766-37AC-4B89-873F-9B34A34CB1D1" = 1;
-};
 name = Italic;
 type = variable;
 },
@@ -359126,6 +359257,19 @@ key = designerURL;
 value = "https://www.omnibus-type.com";
 },
 {
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
 key = manufacturers;
 values = (
 {
@@ -359150,19 +359294,6 @@ value = "Asap is a trademark of Omnibus-Type.";
 {
 key = vendorID;
 value = OMNI;
-},
-{
-key = licenses;
-values = (
-{
-language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
-}
-);
-},
-{
-key = licenseURL;
-value = "https://scripts.sil.org/OFL";
 }
 );
 stems = (
@@ -359256,5 +359387,5 @@ OV = "42";
 LWPluginVersion = "1429";
 };
 versionMajor = 3;
-versionMinor = 1;
+versionMinor = 2;
 }

@@ -1,5 +1,5 @@
 {
-.appVersion = "3133";
+.appVersion = "3414";
 .formatVersion = 3;
 axes = (
 {
@@ -37,6 +37,7 @@ name = "Use Typo Metrics";
 value = 1;
 },
 {
+disabled = 1;
 name = "Axis Mappings";
 value = {
 wdth = {
@@ -76,10 +77,10 @@ size = 8;
 },
 {
 pos = 0;
-size = "-9";
+size = -9;
 },
 {
-pos = "-212";
+pos = -212;
 size = 8;
 }
 );
@@ -625,12 +626,21 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 guides = (
@@ -639,8 +649,8 @@ orientation = center;
 pos = (0,261);
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (0,622);
 }
 );
@@ -731,18 +741,27 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (0,261);
 }
 );
@@ -833,12 +852,21 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 iconName = SemiBold_Condensed;
@@ -925,23 +953,32 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 75;
+}
+);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (0,62);
 },
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (0,272);
 },
 {
@@ -1033,18 +1070,27 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (0,261);
 }
 );
@@ -1139,12 +1185,21 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 id = UUID0;
@@ -1237,18 +1292,27 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (0,261);
 }
 );
@@ -1345,12 +1409,21 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 100;
+}
+);
 }
 );
 iconName = Bold;
@@ -1446,18 +1519,27 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+},
+{
+Axis = Width;
+Location = 125;
+}
+);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (0,261);
 }
 );
@@ -1552,18 +1634,27 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = 125;
+}
+);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (0,261);
 }
 );
@@ -1658,12 +1749,21 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Width;
+Location = 125;
+}
+);
 }
 );
 iconName = SemiBold_Extended;
@@ -1759,18 +1859,27 @@ name = underlineThickness;
 value = 70;
 },
 {
-name = strikeoutPosition;
-value = 0;
-},
-{
 name = strikeoutSize;
 value = 70;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+},
+{
+Axis = Width;
+Location = 125;
+}
+);
 }
 );
 guides = (
 {
-orientation = center;
 angle = 90;
+orientation = center;
 pos = (0,272);
 },
 {
@@ -32985,8 +33094,8 @@ nodes = (
 };
 guides = (
 {
-orientation = center;
 angle = 36.9112;
+orientation = center;
 pos = (156,45);
 showMeasurement = 1;
 },
@@ -32996,8 +33105,8 @@ pos = (59,98);
 showMeasurement = 1;
 },
 {
-orientation = center;
 angle = -45.045;
+orientation = center;
 pos = (111,632);
 showMeasurement = 1;
 }
@@ -73065,8 +73174,8 @@ orientation = center;
 pos = (224,301);
 },
 {
-orientation = center;
 angle = 180;
+orientation = center;
 pos = (363,332);
 }
 );
@@ -73227,8 +73336,8 @@ guides = (
 pos = (299,301);
 },
 {
-orientation = center;
 angle = 180;
+orientation = center;
 pos = (456,332);
 }
 );
@@ -96003,7 +96112,7 @@ hints = (
 {
 horizontal = 1;
 other1 = (0,15);
-place = (67, 150);
+place = (67,150);
 type = TTInterpolate;
 }
 );
@@ -96270,7 +96379,7 @@ hints = (
 {
 horizontal = 1;
 other1 = (0,15);
-place = (414, 150);
+place = (414,150);
 type = TTInterpolate;
 }
 );
@@ -96412,7 +96521,7 @@ hints = (
 {
 horizontal = 1;
 other1 = (0,15);
-place = (414, 150);
+place = (414,150);
 type = TTInterpolate;
 }
 );
@@ -96545,7 +96654,7 @@ hints = (
 {
 horizontal = 1;
 other1 = (0,15);
-place = (414, 150);
+place = (414,150);
 type = TTInterpolate;
 }
 );
@@ -96678,7 +96787,7 @@ hints = (
 {
 horizontal = 1;
 other1 = (0,15);
-place = (67, 150);
+place = (67,150);
 type = TTInterpolate;
 }
 );
@@ -96811,7 +96920,7 @@ hints = (
 {
 horizontal = 1;
 other1 = (0,15);
-place = (67, 150);
+place = (67,150);
 type = TTInterpolate;
 }
 );
@@ -270575,7 +270684,7 @@ hints = (
 {
 horizontal = 1;
 other1 = (1,15);
-place = (427, 150);
+place = (427,150);
 type = TTInterpolate;
 }
 );
@@ -270683,7 +270792,7 @@ hints = (
 {
 horizontal = 1;
 other1 = (1,15);
-place = (427, 150);
+place = (427,150);
 type = TTInterpolate;
 }
 );
@@ -270791,7 +270900,7 @@ hints = (
 {
 horizontal = 1;
 other1 = (1,15);
-place = (427, 150);
+place = (427,150);
 type = TTInterpolate;
 }
 );
@@ -313835,14 +313944,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
+(348,-14,l),
 (79,370,l),
 (79,324,l),
 (352,706,l),
 (319,706,l),
 (590,327,l),
 (590,366,l),
-(323,-14,l),
-(351,-18,l)
+(323,-14,l)
 );
 }
 );
@@ -349228,12 +349337,9 @@ unicode = 61440;
 );
 instances = (
 {
-axesValues = (
-40,
-75
-);
 customParameters = (
 {
+disabled = 1;
 name = "Webfont Formats";
 value = (
 plain,
@@ -349243,6 +349349,7 @@ eot
 );
 },
 {
+disabled = 1;
 name = "Axis Mappings";
 value = {
 wdth = {
@@ -349264,12 +349371,13 @@ wght = {
 900 = 166;
 };
 };
+},
+{
+disabled = 1;
+name = fileName;
+value = Asap;
 }
 );
-exports = 0;
-instanceInterpolations = {
-"534F5340-05B5-45BC-BA3B-B28DD92592EB" = 1;
-};
 name = Regular;
 type = variable;
 },
@@ -353471,6 +353579,19 @@ key = designerURL;
 value = "https://www.omnibus-type.com";
 },
 {
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
 key = manufacturers;
 values = (
 {
@@ -353495,19 +353616,6 @@ value = "Asap is a trademark of Omnibus-Type.";
 {
 key = vendorID;
 value = OMNI;
-},
-{
-key = licenses;
-values = (
-{
-language = dflt;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
-}
-);
-},
-{
-key = licenseURL;
-value = "https://scripts.sil.org/OFL";
 }
 );
 stems = (
@@ -353623,5 +353731,5 @@ oV = "88";
 LWPluginVersion = "1429";
 };
 versionMajor = 3;
-versionMinor = 1;
+versionMinor = 2;
 }
