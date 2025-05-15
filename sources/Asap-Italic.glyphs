@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-.appVersion = "3133";
-=======
 .appVersion = "3414";
->>>>>>> 4bd15b2d98b48bda254349757ab10a4e9903cc0a
 .formatVersion = 3;
 axes = (
 {
@@ -354495,13 +354491,6 @@ unicode = 61440;
 );
 instances = (
 {
-<<<<<<< HEAD
-axesValues = (
-40,
-75
-);
-=======
->>>>>>> 4bd15b2d98b48bda254349757ab10a4e9903cc0a
 customParameters = (
 {
 disabled = 1;
@@ -354543,13 +354532,6 @@ name = fileName;
 value = "Asap-Italic";
 }
 );
-<<<<<<< HEAD
-exports = 0;
-instanceInterpolations = {
-"5C838766-37AC-4B89-873F-9B34A34CB1D1" = 1;
-};
-=======
->>>>>>> 4bd15b2d98b48bda254349757ab10a4e9903cc0a
 name = Italic;
 type = variable;
 },

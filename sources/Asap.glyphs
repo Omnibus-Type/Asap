@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-.appVersion = "3133";
-=======
 .appVersion = "3414";
->>>>>>> 4bd15b2d98b48bda254349757ab10a4e9903cc0a
 .formatVersion = 3;
 axes = (
 {
@@ -1052,115 +1048,6 @@ value = 1055;
 {
 name = winDescent;
 value = 264;
-<<<<<<< HEAD
-},
-{
-name = hheaAscender;
-value = 934;
-},
-{
-name = hheaDescender;
-value = -212;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = underlinePosition;
-value = -177;
-},
-{
-name = underlineThickness;
-value = 70;
-},
-{
-name = strikeoutPosition;
-value = 0;
-},
-{
-name = strikeoutSize;
-value = 70;
-}
-);
-guides = (
-{
-orientation = center;
-angle = 90;
-pos = (0,261);
-}
-);
-iconName = Light;
-id = "84AA6C20-0662-4373-B7CF-A8F69217EDA9";
-metricValues = (
-{
-over = 8;
-pos = 934;
-},
-{
-over = 8;
-pos = 700;
-},
-{
-over = 8;
-pos = 523;
-},
-{
-over = -9;
-},
-{
-over = 8;
-pos = -212;
-},
-{
-}
-);
-name = Thin;
-stemValues = (
-36,
-40
-);
-userData = {
-GSCornerRadius = 10;
-GSOffsetHorizontal = -3;
-GSOffsetProportional = 1;
-GSOffsetVertical = 10;
-angle = "-15";
-height = 67;
-maxMove = 20;
-maxRotate = 8;
-noodleThickness = "10.0, 20.0";
-numberOfCuts = 20;
-width = 77;
-};
-},
-{
-axesValues = (
-77,
-100
-);
-customParameters = (
-{
-name = typoAscender;
-value = 934;
-},
-{
-name = typoDescender;
-value = -212;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 1055;
-},
-{
-name = winDescent;
-value = 264;
-=======
->>>>>>> 4bd15b2d98b48bda254349757ab10a4e9903cc0a
 },
 {
 name = hheaAscender;
@@ -1198,81 +1085,6 @@ Axis = Width;
 Location = 100;
 }
 );
-<<<<<<< HEAD
-name = Regular;
-stemValues = (
-76,
-90
-);
-userData = {
-GSCornerRadius = 12;
-GSOffsetHorizontal = 1;
-GSOffsetProportional = 1;
-GSOffsetVertical = 10;
-angle = "-15";
-height = 67;
-maxMove = 20;
-maxRotate = 8;
-noodleThickness = "10.0, 20.0";
-numberOfCuts = 20;
-width = 77;
-};
-},
-{
-axesValues = (
-129,
-100
-);
-customParameters = (
-{
-name = typoAscender;
-value = 934;
-},
-{
-name = typoDescender;
-value = -212;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 1055;
-},
-{
-name = winDescent;
-value = 264;
-},
-{
-name = hheaAscender;
-value = 934;
-},
-{
-name = hheaDescender;
-value = -212;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = underlinePosition;
-value = -177;
-},
-{
-name = underlineThickness;
-value = 70;
-},
-{
-name = strikeoutPosition;
-value = 0;
-},
-{
-name = strikeoutSize;
-value = 70;
-=======
->>>>>>> 4bd15b2d98b48bda254349757ab10a4e9903cc0a
 }
 );
 guides = (
@@ -314132,18 +313944,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
-<<<<<<< HEAD
-=======
 (348,-14,l),
->>>>>>> 4bd15b2d98b48bda254349757ab10a4e9903cc0a
 (79,370,l),
 (79,324,l),
 (352,706,l),
 (319,706,l),
 (590,327,l),
 (590,366,l),
-(323,-14,l),
-(351,-18,l)
+(323,-14,l)
 );
 }
 );
@@ -337460,7 +337268,6 @@ nodes = (
 }
 );
 width = 370;
-<<<<<<< HEAD
 },
 {
 anchors = (
@@ -337469,16 +337276,6 @@ name = _bottom;
 pos = (195,0);
 },
 {
-=======
-},
-{
-anchors = (
-{
-name = _bottom;
-pos = (195,0);
-},
-{
->>>>>>> 4bd15b2d98b48bda254349757ab10a4e9903cc0a
 name = bottom;
 pos = (195,-180);
 }
@@ -349581,13 +349378,6 @@ name = fileName;
 value = Asap;
 }
 );
-<<<<<<< HEAD
-exports = 0;
-instanceInterpolations = {
-"534F5340-05B5-45BC-BA3B-B28DD92592EB" = 1;
-};
-=======
->>>>>>> 4bd15b2d98b48bda254349757ab10a4e9903cc0a
 name = Regular;
 type = variable;
 },
