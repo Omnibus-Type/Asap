@@ -534,6 +534,12 @@ sub ytilde by ytilde.loclGUA;
 sub ydotbelow by ydotbelow.loclGUA;
 sub yhookabove by yhookabove.loclGUA;
 ";
+labels = (
+{
+language = dflt;
+value = ss01;
+}
+);
 tag = ss01;
 },
 {
