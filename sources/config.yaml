@@ -5,7 +5,7 @@ axisOrder:
   - wdth
   - wght
 familyName: Asap
-#buildStatic: false
+cleanUp: true
 stat:
   Asap[wdth,wght].ttf:
   - name: Width
