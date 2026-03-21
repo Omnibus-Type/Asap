@@ -111,7 +111,7 @@ Then:
 * `make proof` will generate HTML proof files.
 
 ======
-## FONTLOG for the MuseoModerno fonts
+## FONTLOG for the Asap fonts
 
 This file provides detailed information on the Asap font software.  
 This information should be distributed along with the Asap fonts and any derivative works.
